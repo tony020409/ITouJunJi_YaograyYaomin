@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configs enableGlobalUnique="0">	
+    <Server >
+    		<Ip>192.168.42.146</Ip>
+    		<Port>8899</Port>
+    		<HttpPort>8080</HttpPort>
+		<Port1>9600</Port1>
+		<Port2>9601</Port2>
+        <game_db_host>127.0.0.1</game_db_host>
+        <game_db_port>3306</game_db_port>
+        <game_db_user>root</game_db_user>
+        <game_db_password>10114040</game_db_password>
+        <game_db_name>game_service</game_db_name>     
+    </Server>    
+</Configs>
