@@ -1,0 +1,274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RaptorNeck
+  m_Mask: 00000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Droma_LOD0
+    m_Weight: 0
+  - m_Path: Droma_LOD0/Droma_LOD0_MeshPart0
+    m_Weight: 0
+  - m_Path: Droma_LOD0/Droma_LOD0_MeshPart1
+    m_Weight: 0
+  - m_Path: Droma_LOD1
+    m_Weight: 0
+  - m_Path: Droma_LOD2
+    m_Weight: 0
+  - m_Path: FeathersHead
+    m_Weight: 0
+  - m_Path: FeathersLArm
+    m_Weight: 0
+  - m_Path: FeathersLForearm
+    m_Weight: 0
+  - m_Path: FeathersLUpLeg
+    m_Weight: 0
+  - m_Path: FeathersRArm
+    m_Weight: 0
+  - m_Path: FeathersRForearm
+    m_Weight: 0
+  - m_Path: FeathersRUpLeg
+    m_Weight: 0
+  - m_Path: FeathersTail
+    m_Weight: 0
+  - m_Path: Root
+    m_Weight: 0
+  - m_Path: Root/Camera1
+    m_Weight: 0
+  - m_Path: Root/Camera2
+    m_Weight: 0
+  - m_Path: Root/Hips
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/FeathersLLeg
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootIndex1
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootIndex1/LeftFootIndex2
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootIndex1/LeftFootIndex2/LeftFootIndex3
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootIndex1/LeftFootIndex2/LeftFootIndex3/LeftFootIndex4
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootMiddle1
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootMiddle1/LeftFootMiddle2
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootMiddle1/LeftFootMiddle2/LeftFootMiddle3
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootMiddle1/LeftFootMiddle2/LeftFootMiddle3/LeftFootMiddle4
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootRing1
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootRing1/LeftFootRing2
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootRing1/LeftFootRing2/LeftFootRing3
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootRing1/LeftFootRing2/LeftFootRing3/LeftFootRing4
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootThumb1
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootThumb1/LeftFootThumb2
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootThumb1/LeftFootThumb2/LeftFootThumb3
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFootThumb1/LeftFootThumb2/LeftFootThumb3/LeftFootThumb4
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+    m_Weight: 0
+  - m_Path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftToeBaseEND
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/FeathersRLeg
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootIndex1
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootIndex1/RightFootIndex2
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootIndex1/RightFootIndex2/RightFootIndex3
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootIndex1/RightFootIndex2/RightFootIndex3/RightFootIndex4
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootMiddle1
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootMiddle1/RightFootMiddle2
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootMiddle1/RightFootMiddle2/RightFootMiddle3
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootMiddle1/RightFootMiddle2/RightFootMiddle3/RightFootMiddle4
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootRing1
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootRing1/RightFootRing2
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootRing1/RightFootRing2/RightFootRing3
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootRing1/RightFootRing2/RightFootRing3/RightFootRing4
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootThumb1
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootThumb1/RightFootThumb2
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootThumb1/RightFootThumb2/RightFootThumb3
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightFootThumb1/RightFootThumb2/RightFootThumb3/RightFootThumb4
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+    m_Weight: 0
+  - m_Path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightToeBaseEND
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Belly
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndex4
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddle4
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandProp
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRing4
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head
+    m_Weight: 1
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/Jaw
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/Jaw/JawEND
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/Jaw/TeethLow
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/Jaw/Tongue
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/Jaw/Tongue/Tongue1
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/Jaw/Tongue/Tongue1/Tongue2
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/Jaw/Tongue/Tongue1/Tongue2/Tongue3
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/Jaw/Tongue/Tongue1/Tongue2/Tongue3/Tongue4
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/LeftEye
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/LeftLowEyeLid
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/LeftUpEyeLid
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/PreySocket
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/RightEye
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/RightLowEyeLid
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/RightUpEyeLid
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/Snout
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Head/TeethUp
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/Neck/Neck1/Neck2/Neck3/Throat
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndex4
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddle4
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandProp
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+    m_Weight: 0
+  - m_Path: Root/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRing4
+    m_Weight: 0
+  - m_Path: Root/Hips/Tail
+    m_Weight: 0
+  - m_Path: Root/Hips/Tail/Dupa
+    m_Weight: 0
+  - m_Path: Root/Hips/Tail/Tail1
+    m_Weight: 0
+  - m_Path: Root/Hips/Tail/Tail1/Tail2
+    m_Weight: 0
+  - m_Path: Root/Hips/Tail/Tail1/Tail2/Tail3
+    m_Weight: 0
+  - m_Path: Root/Hips/Tail/Tail1/Tail2/Tail3/Tail4
+    m_Weight: 0
+  - m_Path: Root/Hips/Tail/Tail1/Tail2/Tail3/Tail4/Tail5
+    m_Weight: 0
+  - m_Path: Root/Hips/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+    m_Weight: 0
+  - m_Path: Root/LeftFootIK
+    m_Weight: 0
+  - m_Path: Root/RightFootIK
+    m_Weight: 0

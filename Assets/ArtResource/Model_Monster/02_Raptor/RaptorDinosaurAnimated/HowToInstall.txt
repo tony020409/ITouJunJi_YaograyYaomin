@@ -1,0 +1,17 @@
+INSTALLATION NOTES
+
+1. Create a new, fresh, EMPTY Unity Project
+
+2. Download and Import fresh version of Playmaker
+
+3. Import Raptor Dinosaur Animated pack
+
+4. Unzip
+	...\Assets\RaptorDinosaurAnimated\UnzipAndReplace_InputManager\ProjectSettings.zip
+and replace the existing
+	ProjectSettings\InputManager.asset and TagManager.asset with the unzipped files.
+5. Unzip
+	...\Assets\RaptorDinosaurAnimated\UnzipAndReplace_InputManager\UnzipAndCopyToPlaymakerResources\Resources.zip
+and replace ...\Assets\PlayMaker\Resources\PlayMakerGlobals.asset with the unzipped file.
+
+5. Enjoy

@@ -1,0 +1,5437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1712816721488960}
+  m_IsPrefabParent: 1
+--- !u!1 &1011346562560906
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4161232032000364}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1022041318824116
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4339252387131044}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1031665944758530
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4543305526480094}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1074056466070348
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4078046654292480}
+  m_Layer: 0
+  m_Name: CATRigSpine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1081476700705338
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4378321392328660}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit52
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1083753734145398
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4772675457045180}
+  m_Layer: 0
+  m_Name: CATRigSpine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1134109640516412
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4971105175181352}
+  m_Layer: 0
+  m_Name: CATRigLLegPlatform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1147963048098728
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4804956106418196}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1153959337044992
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4151404882321764}
+  m_Layer: 0
+  m_Name: CATRigLLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1158331319400862
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4402714230722232}
+  - component: {fileID: 33043011451190062}
+  - component: {fileID: 65204145706116666}
+  - component: {fileID: 23451041825513356}
+  - component: {fileID: 114788742758714962}
+  - component: {fileID: 95351845894332440}
+  - component: {fileID: 82642890530975858}
+  - component: {fileID: 114407324046145444}
+  m_Layer: 0
+  m_Name: LookAt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1168849363443466
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4004424709105410}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit51
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1190214184507414
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4472352437519070}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1193783072976868
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4011241668258466}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit53
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1206168367453612
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4627776378016882}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1213088467391346
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4094606933622972}
+  m_Layer: 0
+  m_Name: CATRigRLegPlatform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1213617165875996
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4314579885788374}
+  m_Layer: 0
+  m_Name: CATRigRLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1257727979829934
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4407665771893934}
+  - component: {fileID: 95029175126151484}
+  - component: {fileID: 114056743432030692}
+  m_Layer: 0
+  m_Name: Body2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1266812202108226
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4672093688515920}
+  - component: {fileID: 33705916542598828}
+  - component: {fileID: 23352470266896584}
+  m_Layer: 0
+  m_Name: Character001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &1285143120376030
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4596668608902200}
+  m_Layer: 0
+  m_Name: CATRigLLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1317853884830220
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4169138837269808}
+  - component: {fileID: 33543816788831234}
+  - component: {fileID: 23758999766170714}
+  m_Layer: 0
+  m_Name: Object003
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1321185231121764
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4222334030289854}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1323954313352068
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4223465583014042}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit52
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1346735093830826
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4062364650123434}
+  - component: {fileID: 137699844715277186}
+  m_Layer: 0
+  m_Name: Bodyl_mesh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1373659216244692
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4771047555369816}
+  m_Layer: 0
+  m_Name: CATRigHub001Bone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1410703303728070
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4041312547702472}
+  - component: {fileID: 33717318406012190}
+  - component: {fileID: 23122729294679878}
+  m_Layer: 0
+  m_Name: Object005
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1421390443502960
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4073957873833738}
+  m_Layer: 0
+  m_Name: CATRigRLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1425848132403318
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4121290763748490}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1449124507557354
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4129361246611082}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1470395659297332
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4607127175997120}
+  m_Layer: 0
+  m_Name: CATRigRArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1474535384193048
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4801268247171362}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1477780727349000
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4874821108915726}
+  m_Layer: 0
+  m_Name: CATRigHub003
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1484361602175690
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4538627113477068}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1484659247692782
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4782691909617628}
+  m_Layer: 0
+  m_Name: CATRigLArmPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1488680041921124
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4747680904262618}
+  m_Layer: 0
+  m_Name: CATRigLArmIKTarget
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1497394636268958
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4918469275500900}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1533384819427094
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4251684766834160}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1582955103410168
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4059752449602898}
+  - component: {fileID: 33556183793451968}
+  - component: {fileID: 23535761925617968}
+  m_Layer: 0
+  m_Name: Pistol_mesh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1614786929758166
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4855912957535368}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1615416567462796
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4037078211779828}
+  - component: {fileID: 33502588274134706}
+  - component: {fileID: 23950450271567340}
+  m_Layer: 0
+  m_Name: Tommy_gun_mesh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1624978335314990
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4225319615650312}
+  - component: {fileID: 33039519409952576}
+  - component: {fileID: 23592287415850288}
+  m_Layer: 0
+  m_Name: Object002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1637197963062586
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4572767981932768}
+  m_Layer: 0
+  m_Name: CATRigRArm22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1653335117531318
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4631734647394294}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1653538232066776
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4254899994583778}
+  m_Layer: 0
+  m_Name: CATRigRArm21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1663554649553356
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4902230592083152}
+  m_Layer: 0
+  m_Name: CATRigLLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1663628581810582
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4267087895242776}
+  m_Layer: 0
+  m_Name: CATRigLArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1668707830725982
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4166615189260392}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1683435333302636
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4723127404035316}
+  - component: {fileID: 33731362957666752}
+  - component: {fileID: 23266684284461570}
+  m_Layer: 0
+  m_Name: Object006
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1687175582733582
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4452765280244732}
+  - component: {fileID: 33732001931015688}
+  - component: {fileID: 23847836266637296}
+  m_Layer: 0
+  m_Name: Object001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1688511837864128
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4097455192722092}
+  m_Layer: 0
+  m_Name: CATRigRLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1695587795524138
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4302600553557896}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1699698999432110
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4588884480487220}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit51
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1712721034116486
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4823754656349254}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1712816721488960
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4588377970696304}
+  - component: {fileID: 95224163151469096}
+  m_Layer: 0
+  m_Name: SoldierMove1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1733578276168874
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4004784647216802}
+  m_Layer: 0
+  m_Name: CATRigLArm22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1740248300508682
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4788266984230566}
+  m_Layer: 0
+  m_Name: CATRigRArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1746577780305034
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4624186231152012}
+  m_Layer: 0
+  m_Name: CATRigLLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1762536073087452
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4933710480602252}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit53
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1818777323216316
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4443843140797598}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1836558717254424
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4710271356714624}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1848182193162810
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4181950620685434}
+  m_Layer: 0
+  m_Name: CATRigHub002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1856831630826142
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4494100631363592}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1907506748395582
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4491537289815854}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1907529908536202
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4900385936412888}
+  m_Layer: 0
+  m_Name: CATRigRArmDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1917445762079160
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4228399934299352}
+  m_Layer: 0
+  m_Name: CATRigLArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1937152463160758
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4144443606369862}
+  m_Layer: 0
+  m_Name: CATRigHub001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1943768393007334
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4020737056054176}
+  m_Layer: 0
+  m_Name: CATRigRLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1951878123384906
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4992243442246738}
+  m_Layer: 0
+  m_Name: CATRigLArm21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1954620360043242
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4645294599161994}
+  m_Layer: 0
+  m_Name: CATRigRArmPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1954678319535634
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4122444213985782}
+  - component: {fileID: 33071193514283026}
+  - component: {fileID: 23085224678311244}
+  m_Layer: 0
+  m_Name: Object004
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1961851685688792
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4539822120874666}
+  m_Layer: 0
+  m_Name: CATRigSpine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1984187801814894
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4940396768328700}
+  m_Layer: 0
+  m_Name: Equipment_mesh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1998171040704398
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4123596348356638}
+  m_Layer: 0
+  m_Name: CATRigRArmIKTarget
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1999977806219050
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4967501846031534}
+  m_Layer: 0
+  m_Name: CATRigLArmDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4004424709105410
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1168849363443466}
+  m_LocalRotation: {x: -0.055704076, y: -0.023694098, z: 0.44288924, w: 0.8945305}
+  m_LocalPosition: {x: -10.5536785, y: -0.4205551, z: -4.035263}
+  m_LocalScale: {x: 1.0000035, y: 0.9999956, z: 1.0000011}
+  m_Children:
+  - {fileID: 4378321392328660}
+  m_Father: {fileID: 4782691909617628}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -4.5121336, y: -5.279642, z: 52.88891}
+--- !u!4 &4004784647216802
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1733578276168874}
+  m_LocalRotation: {x: -0.24721079, y: 0.000000010903055, z: -0.000000012596791, w: 0.9689617}
+  m_LocalPosition: {x: -19.620201, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 4782691909617628}
+  m_Father: {fileID: 4992243442246738}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -40.157913, y: 0.00000026668747, z: 0.0000022342497}
+--- !u!4 &4011241668258466
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1193783072976868}
+  m_LocalRotation: {x: -0.004033902, y: -0.0021987362, z: 0.34749982, w: 0.9376688}
+  m_LocalPosition: {x: -1.8422089, y: -0.0000019073486, z: 0}
+  m_LocalScale: {x: 1.0000104, y: 0.9999886, z: 1.0000008}
+  m_Children: []
+  m_Father: {fileID: 4378321392328660}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.19782875, y: -0.48787713, z: 59.670197}
+--- !u!4 &4020737056054176
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1943768393007334}
+  m_LocalRotation: {x: -0.029051796, y: 0.031144224, z: -0.49391764, w: 0.86846495}
+  m_LocalPosition: {x: -46.37555, y: 0.00000047683716, z: 0}
+  m_LocalScale: {x: 0.9999868, y: 1.0000132, z: 1.0000002}
+  m_Children:
+  - {fileID: 4314579885788374}
+  m_Father: {fileID: 4097455192722092}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -5.8274474, y: 0.48601153, z: -66.40008}
+--- !u!4 &4037078211779828
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1615416567462796}
+  m_LocalRotation: {x: -0.058413282, y: -0.9975568, z: 0.035870664, w: 0.013475751}
+  m_LocalPosition: {x: -16.6, y: -4.1, z: -4.5}
+  m_LocalScale: {x: 0.22912344, y: 0.22913127, z: 0.22912478}
+  m_Children: []
+  m_Father: {fileID: 4645294599161994}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 4.0140004, y: -178.21501, z: 6.7650003}
+--- !u!4 &4041312547702472
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410703303728070}
+  m_LocalRotation: {x: -0.18255688, y: -0.6470102, z: 0.32199225, w: 0.6666122}
+  m_LocalPosition: {x: 26.659378, y: 16.179802, z: 8.991211}
+  m_LocalScale: {x: -2.2974327, y: -2.29742, z: -2.2974381}
+  m_Children: []
+  m_Father: {fileID: 4151404882321764}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4059752449602898
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582955103410168}
+  m_LocalRotation: {x: -0.097022794, y: 0.73533136, z: 0.6707119, w: -0.0044713006}
+  m_LocalPosition: {x: -23.623985, y: -2.2357903, z: 12.557347}
+  m_LocalScale: {x: 0.14370532, y: 0.14370573, z: 0.14370649}
+  m_Children: []
+  m_Father: {fileID: 4073957873833738}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4062364650123434
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1346735093830826}
+  m_LocalRotation: {x: -0.70090926, y: 0, z: -0, w: 0.71325046}
+  m_LocalPosition: {x: -0.00000003012626, y: 0.9827101, z: -0.02284784}
+  m_LocalScale: {x: 0.022974305, y: 0.022974305, z: 0.022974305}
+  m_Children: []
+  m_Father: {fileID: 4407665771893934}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4073957873833738
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1421390443502960}
+  m_LocalRotation: {x: -0.06519464, y: 0.99638367, z: -0.04904252, w: -0.023751738}
+  m_LocalPosition: {x: -2.4405441, y: -1.1242845, z: -11.199686}
+  m_LocalScale: {x: 1.0000011, y: 0.9999985, z: 1.0000002}
+  m_Children:
+  - {fileID: 4097455192722092}
+  - {fileID: 4723127404035316}
+  - {fileID: 4059752449602898}
+  m_Father: {fileID: 4144443606369862}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0.6462311, y: -171.0049, z: -10.186849}
+--- !u!4 &4078046654292480
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1074056466070348}
+  m_LocalRotation: {x: 4.2632534e-14, y: 1.3672345e-13, z: 2.842171e-14, w: 1}
+  m_LocalPosition: {x: -13.950027, y: 0, z: 5.869083e-12}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4181950620685434}
+  m_Father: {fileID: 4772675457045180}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.67224807, y: -0.1420922, z: -6.2236695}
+--- !u!4 &4094606933622972
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1213088467391346}
+  m_LocalRotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+  m_LocalPosition: {x: 0.14999999, y: -0.0000000052928635, z: 0.03322262}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children: []
+  m_Father: {fileID: 4407665771893934}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: -69.99999, z: -90}
+--- !u!4 &4097455192722092
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1688511837864128}
+  m_LocalRotation: {x: 0.026296416, y: -0.010229935, z: 0.1383502, w: 0.98998135}
+  m_LocalPosition: {x: -46.220623, y: 0.00020503998, z: -0.0001411438}
+  m_LocalScale: {x: 0.99998856, y: 1.000009, z: 1.0000024}
+  m_Children:
+  - {fileID: 4020737056054176}
+  m_Father: {fileID: 4073957873833738}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 3.3389757, y: -1.230584, z: 27.075392}
+--- !u!4 &4121290763748490
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1425848132403318}
+  m_LocalRotation: {x: -0.000058366408, y: 0.00010289866, z: 0.6577829, w: 0.75320756}
+  m_LocalPosition: {x: -2.8332558, y: 0, z: -0.0000076293945}
+  m_LocalScale: {x: 1.0000088, y: 0.9999868, z: 1.0000049}
+  m_Children: []
+  m_Father: {fileID: 4801268247171362}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.012789222, y: 0.0044795177, z: 82.26199}
+--- !u!4 &4122444213985782
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1954678319535634}
+  m_LocalRotation: {x: 0.28993237, y: 0.63521516, z: 0.27944613, w: 0.65905297}
+  m_LocalPosition: {x: -29.892372, y: 12.078352, z: -1.1368684e-13}
+  m_LocalScale: {x: -2.2974298, y: -2.2974312, z: -2.2974305}
+  m_Children: []
+  m_Father: {fileID: 4144443606369862}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4123596348356638
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1998171040704398}
+  m_LocalRotation: {x: -0.035243563, y: 0.6027169, z: 0.7328622, w: -0.31369302}
+  m_LocalPosition: {x: 0.13286035, y: 1.2661078, z: 0.2504455}
+  m_LocalScale: {x: 0.01000013, y: 0.00999979, z: 0.010000068}
+  m_Children: []
+  m_Father: {fileID: 4407665771893934}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -55.192707, y: -39.814606, z: -89.61238}
+--- !u!4 &4129361246611082
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1449124507557354}
+  m_LocalRotation: {x: 0.00000006238249, y: -0.000000084907605, z: 0.4721532, w: 0.8815166}
+  m_LocalPosition: {x: -5.46994, y: 0, z: 0.0000038146973}
+  m_LocalScale: {x: 1.0000632, y: 0.9999571, z: 0.9999792}
+  m_Children: []
+  m_Father: {fileID: 4823754656349254}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000060696893, y: -0.0000032072476, z: 56.34831}
+--- !u!4 &4144443606369862
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1937152463160758}
+  m_LocalRotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+  m_LocalPosition: {x: 2.4442667e-14, y: 1.021122, z: -0.03248747}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children:
+  - {fileID: 4771047555369816}
+  - {fileID: 4151404882321764}
+  - {fileID: 4073957873833738}
+  - {fileID: 4225319615650312}
+  - {fileID: 4169138837269808}
+  - {fileID: 4122444213985782}
+  m_Father: {fileID: 4407665771893934}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.2958919, y: -61.14967, z: -88.44929}
+--- !u!4 &4151404882321764
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1153959337044992}
+  m_LocalRotation: {x: -0.06518926, y: 0.996385, z: 0.04904829, w: 0.023698745}
+  m_LocalPosition: {x: -2.4405441, y: -1.1242836, z: 11.199688}
+  m_LocalScale: {x: 0.99999875, y: 1.0000014, z: 0.99999946}
+  m_Children:
+  - {fileID: 4902230592083152}
+  - {fileID: 4041312547702472}
+  m_Father: {fileID: 4144443606369862}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -34.272705, y: 172.28014, z: -12.596962}
+--- !u!4 &4161232032000364
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1011346562560906}
+  m_LocalRotation: {x: -0.020045232, y: 0.048344728, z: 0.38248777, w: 0.9224771}
+  m_LocalPosition: {x: -10.990471, y: 0.3263626, z: 0.7722397}
+  m_LocalScale: {x: 1.0000035, y: 0.9999951, z: 1.0000014}
+  m_Children:
+  - {fileID: 4967501846031534}
+  m_Father: {fileID: 4782691909617628}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -4.2417607, y: 4.247364, z: 55.883472}
+--- !u!4 &4166615189260392
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1668707830725982}
+  m_LocalRotation: {x: 0.5875394, y: 0.3650402, z: 0.025093507, w: 0.72174335}
+  m_LocalPosition: {x: -1.3188877, y: -0.8376808, z: 3.4560928}
+  m_LocalScale: {x: 0.99999624, y: 0.9999971, z: 1.0000068}
+  m_Children:
+  - {fileID: 4543305526480094}
+  m_Father: {fileID: 4782691909617628}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 56.076656, y: 85.57212, z: 56.46196}
+--- !u!4 &4169138837269808
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1317853884830220}
+  m_LocalRotation: {x: 0.28993237, y: 0.63521516, z: 0.27944613, w: 0.65905297}
+  m_LocalPosition: {x: -29.892372, y: 12.078352, z: -1.1368684e-13}
+  m_LocalScale: {x: -2.2974298, y: -2.2974312, z: -2.2974305}
+  m_Children: []
+  m_Father: {fileID: 4144443606369862}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4181950620685434
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1848182193162810}
+  m_LocalRotation: {x: -7.722453e-21, y: 1.8900409e-14, z: 1.4595752e-34, w: 1}
+  m_LocalPosition: {x: -8.482193, y: 0, z: 1.0729195e-12}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4267087895242776}
+  - {fileID: 4607127175997120}
+  - {fileID: 4539822120874666}
+  - {fileID: 4452765280244732}
+  m_Father: {fileID: 4078046654292480}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.1542256, y: -0.02589897, z: -1.415689}
+--- !u!4 &4222334030289854
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1321185231121764}
+  m_LocalRotation: {x: 0.000000070228076, y: -0.00000032330934, z: 0.34236285, w: 0.93956786}
+  m_LocalPosition: {x: -10.990654, y: 0.32638168, z: -0.7722473}
+  m_LocalScale: {x: 1.0000337, y: 0.99996495, z: 1.000001}
+  m_Children:
+  - {fileID: 4918469275500900}
+  m_Father: {fileID: 4645294599161994}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0.000023068684, y: -0.000027451431, z: 40.0418}
+--- !u!4 &4223465583014042
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1323954313352068}
+  m_LocalRotation: {x: -0.017970879, y: -0.011987849, z: 0.47374398, w: 0.8803976}
+  m_LocalPosition: {x: -5.1906204, y: 0, z: 0.0000076293945}
+  m_LocalScale: {x: 1.000071, y: 0.9999266, z: 1.0000012}
+  m_Children:
+  - {fileID: 4933710480602252}
+  m_Father: {fileID: 4588884480487220}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.1623054, y: -2.1859834, z: 56.59178}
+--- !u!4 &4225319615650312
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1624978335314990}
+  m_LocalRotation: {x: 0.28993237, y: 0.63521516, z: 0.27944613, w: 0.65905297}
+  m_LocalPosition: {x: -29.892372, y: 12.078352, z: -1.1368684e-13}
+  m_LocalScale: {x: -2.2974298, y: -2.2974312, z: -2.2974305}
+  m_Children: []
+  m_Father: {fileID: 4144443606369862}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4228399934299352
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1917445762079160}
+  m_LocalRotation: {x: 0.5018324, y: 0.41920975, z: -0.4489275, w: 0.6090086}
+  m_LocalPosition: {x: -25.58791, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999986, y: 1.0000004, z: 1.0000012}
+  m_Children:
+  - {fileID: 4992243442246738}
+  m_Father: {fileID: 4267087895242776}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 68.3658, y: -28.103512, z: -99.33496}
+--- !u!4 &4251684766834160
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1533384819427094}
+  m_LocalRotation: {x: -0.018090155, y: 0.014411215, z: 0.3916937, w: 0.919805}
+  m_LocalPosition: {x: -10.717901, y: 0.48456383, z: -1.8627853}
+  m_LocalScale: {x: 1.0000035, y: 0.9999957, z: 1.0000006}
+  m_Children:
+  - {fileID: 4443843140797598}
+  m_Father: {fileID: 4782691909617628}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -2.5544338, y: 0.7077199, z: 60.11713}
+--- !u!4 &4254899994583778
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1653538232066776}
+  m_LocalRotation: {x: -0.005131117, y: 0.0069677164, z: -0.79179615, w: 0.61072415}
+  m_LocalPosition: {x: -23.890198, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999344, y: 0.99999964, z: 1.0000064}
+  m_Children:
+  - {fileID: 4572767981932768}
+  m_Father: {fileID: 4788266984230566}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.437572, y: 0.8940375, z: -114.88599}
+--- !u!4 &4267087895242776
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1663628581810582}
+  m_LocalRotation: {x: 0.27819362, y: 0.62915766, z: 0.30038238, w: 0.6607113}
+  m_LocalPosition: {x: -23.218002, y: 16.86267, z: 5.3293443}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4228399934299352}
+  m_Father: {fileID: 4181950620685434}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.1795306, y: 87.45212, z: 48.325485}
+--- !u!4 &4302600553557896
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1695587795524138}
+  m_LocalRotation: {x: -0.004882999, y: -0.023110896, z: 0.20241228, w: 0.97901547}
+  m_LocalPosition: {x: -11.360809, y: -0.23321724, z: -4.0080795}
+  m_LocalScale: {x: 1.0000247, y: 0.9999731, z: 1.0000017}
+  m_Children:
+  - {fileID: 4710271356714624}
+  m_Father: {fileID: 4645294599161994}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.0117404, y: -2.7069824, z: 31.029825}
+--- !u!4 &4314579885788374
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1213617165875996}
+  m_LocalRotation: {x: 0.047059562, y: -0.01677949, z: -0.33391976, w: 0.94127655}
+  m_LocalPosition: {x: -19.474957, y: 0.0000009536743, z: 0}
+  m_LocalScale: {x: 0.99999285, y: 1.000007, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4020737056054176}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 4.4359593, y: -3.6144629, z: -39.24259}
+--- !u!4 &4339252387131044
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1022041318824116}
+  m_LocalRotation: {x: 0.00000012328194, y: 0.000000281371, z: -0.014428068, w: 0.99989593}
+  m_LocalPosition: {x: -5.4699383, y: 0.0000076293945, z: 0}
+  m_LocalScale: {x: 1.0000057, y: 0.9999985, z: 0.9999957}
+  m_Children: []
+  m_Father: {fileID: 4543305526480094}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000011090914, y: 0.000029147104, z: -1.6533957}
+--- !u!4 &4378321392328660
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1081476700705338}
+  m_LocalRotation: {x: 0.01261571, y: 0.011408082, z: 0.33975095, w: 0.9403617}
+  m_LocalPosition: {x: -5.1906185, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000063, y: 0.99999326, z: 1.0000008}
+  m_Children:
+  - {fileID: 4011241668258466}
+  m_Father: {fileID: 4004424709105410}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.9153197, y: 1.7209567, z: 58.743073}
+--- !u!4 &4402714230722232
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1158331319400862}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.8169994, z: 0.588}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_Children: []
+  m_Father: {fileID: 4588377970696304}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4407665771893934
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1257727979829934}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4062364650123434}
+  - {fileID: 4144443606369862}
+  - {fileID: 4747680904262618}
+  - {fileID: 4971105175181352}
+  - {fileID: 4123596348356638}
+  - {fileID: 4094606933622972}
+  - {fileID: 4672093688515920}
+  - {fileID: 4940396768328700}
+  m_Father: {fileID: 4588377970696304}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4443843140797598
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1818777323216316}
+  m_LocalRotation: {x: -0.00000003672792, y: 0.00000019722066, z: 0.43236864, w: 0.9016969}
+  m_LocalPosition: {x: -5.8000374, y: 0.0000019073486, z: -0.0000076293945}
+  m_LocalScale: {x: 1.0000094, y: 0.9999902, z: 1.000001}
+  m_Children:
+  - {fileID: 4494100631363592}
+  m_Father: {fileID: 4251684766834160}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000019477671, y: 0.000010951064, z: 67.23588}
+--- !u!4 &4452765280244732
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1687175582733582}
+  m_LocalRotation: {x: 0.28993237, y: 0.63521516, z: 0.27944613, w: 0.65905297}
+  m_LocalPosition: {x: 4.2664185, y: 14.102766, z: -7.81597e-14}
+  m_LocalScale: {x: -2.2974298, y: -2.2974312, z: -2.2974305}
+  m_Children: []
+  m_Father: {fileID: 4181950620685434}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4472352437519070
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1190214184507414}
+  m_LocalRotation: {x: -0.5875362, y: -0.3650456, z: 0.025097873, w: 0.72174305}
+  m_LocalPosition: {x: -1.3189087, y: -0.837677, z: -3.456009}
+  m_LocalScale: {x: 1.0000268, y: 0.9999764, z: 0.999996}
+  m_Children:
+  - {fileID: 4823754656349254}
+  m_Father: {fileID: 4645294599161994}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -56.075775, y: -85.57227, z: 56.46194}
+--- !u!4 &4491537289815854
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1907506748395582}
+  m_LocalRotation: {x: 0.014098109, y: 0.02910881, z: 0.43574896, w: 0.89948696}
+  m_LocalPosition: {x: -11.360609, y: -0.23324203, z: 4.008156}
+  m_LocalScale: {x: 1.0000002, y: 0.999995, z: 1.0000051}
+  m_Children:
+  - {fileID: 4801268247171362}
+  m_Father: {fileID: 4782691909617628}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.00033531958, y: 3.7068915, z: 54.694935}
+--- !u!4 &4494100631363592
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1856831630826142}
+  m_LocalRotation: {x: -0.000000013694495, y: -0.000000005874685, z: 0.39423767, w: 0.91900855}
+  m_LocalPosition: {x: -2.844349, y: 0, z: 0.0000076293945}
+  m_LocalScale: {x: 1.0000142, y: 0.99998534, z: 1.0000008}
+  m_Children: []
+  m_Father: {fileID: 4443843140797598}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000021041114, y: 0.000010729309, z: 62.436783}
+--- !u!4 &4538627113477068
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1484361602175690}
+  m_LocalRotation: {x: 0.020156013, y: 0.035938866, z: 0.48875794, w: 0.87144583}
+  m_LocalPosition: {x: -10.718079, y: 0.4845829, z: 1.8627472}
+  m_LocalScale: {x: 1.0000443, y: 0.9999539, z: 1.0000011}
+  m_Children:
+  - {fileID: 4900385936412888}
+  m_Father: {fileID: 4645294599161994}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -0.000059337264, y: 4.723108, z: 58.57253}
+--- !u!4 &4539822120874666
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1961851685688792}
+  m_LocalRotation: {x: -0.00000001709854, y: 0.000000009867367, z: -0.24192192, w: 0.9702957}
+  m_LocalPosition: {x: -33.766144, y: 0.000005722046, z: 8.6686214e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4874821108915726}
+  m_Father: {fileID: 4181950620685434}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 12.682842, y: 4.4390597, z: -26.255178}
+--- !u!4 &4543305526480094
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1031665944758530}
+  m_LocalRotation: {x: -0.000000024463514, y: 0.00000002262217, z: 0.35306194, w: 0.9356}
+  m_LocalPosition: {x: -5.4444084, y: 0.0000076293945, z: 0}
+  m_LocalScale: {x: 0.9999961, y: 1.0000085, z: 0.9999956}
+  m_Children:
+  - {fileID: 4339252387131044}
+  m_Father: {fileID: 4166615189260392}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000046406676, y: -0.000007857758, z: 41.349415}
+--- !u!4 &4572767981932768
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1637197963062586}
+  m_LocalRotation: {x: 0.09122547, y: -0, z: -0, w: 0.9958303}
+  m_LocalPosition: {x: -19.620201, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4645294599161994}
+  m_Father: {fileID: 4254899994583778}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 8.878811, y: 0.00000042688487, z: 5.765461e-12}
+--- !u!4 &4588377970696304
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1712816721488960}
+  m_LocalRotation: {x: 0, y: -0.6892593, z: 0, w: 0.7245147}
+  m_LocalPosition: {x: 4.396, y: 6.932, z: -4.508}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4407665771893934}
+  - {fileID: 4402714230722232}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -87.14301, z: 0}
+--- !u!4 &4588884480487220
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1699698999432110}
+  m_LocalRotation: {x: 0.03232204, y: 0.08346358, z: 0.52410144, w: 0.8469397}
+  m_LocalPosition: {x: -10.553856, y: -0.4205532, z: 4.035202}
+  m_LocalScale: {x: 1.0000465, y: 0.9999515, z: 1.0000014}
+  m_Children:
+  - {fileID: 4223465583014042}
+  m_Father: {fileID: 4645294599161994}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -1.876035, y: 10.099103, z: 63.334167}
+--- !u!4 &4596668608902200
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1285143120376030}
+  m_LocalRotation: {x: -0.047155578, y: 0.017040288, z: -0.33381724, w: 0.94130343}
+  m_LocalPosition: {x: -19.474957, y: -0.00000047683716, z: 0}
+  m_LocalScale: {x: 1.0000015, y: 0.99999875, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 4624186231152012}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.4372034, y: 3.6571648, z: -39.222115}
+--- !u!4 &4607127175997120
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470395659297332}
+  m_LocalRotation: {x: -0.2781937, y: -0.62915766, z: 0.3003823, w: 0.6607113}
+  m_LocalPosition: {x: -23.218002, y: 16.86267, z: -5.3293447}
+  m_LocalScale: {x: 1.0000002, y: 0.9999999, z: 1.0000001}
+  m_Children:
+  - {fileID: 4788266984230566}
+  m_Father: {fileID: 4181950620685434}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0.59383404, y: -86.93087, z: 48.333527}
+--- !u!4 &4624186231152012
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1746577780305034}
+  m_LocalRotation: {x: 0.029755054, y: -0.030913023, z: -0.4939424, w: 0.8684354}
+  m_LocalPosition: {x: -46.37555, y: 0.00000047683716, z: 0}
+  m_LocalScale: {x: 1.0000029, y: 0.9999972, z: 1}
+  m_Children:
+  - {fileID: 4596668608902200}
+  m_Father: {fileID: 4902230592083152}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -6.5716968, y: -1.2570809, z: -59.451424}
+--- !u!4 &4627776378016882
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1206168367453612}
+  m_LocalRotation: {x: -0.00000006005781, y: 0.00000020848292, z: 0.5301573, w: 0.8478994}
+  m_LocalPosition: {x: -3.511917, y: -0.0000009536743, z: 0.0000076293945}
+  m_LocalScale: {x: 1.0000175, y: 0.9999813, z: 1.0000013}
+  m_Children: []
+  m_Father: {fileID: 4967501846031534}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000015450654, y: 0.000017021683, z: 64.032166}
+--- !u!4 &4631734647394294
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1653335117531318}
+  m_LocalRotation: {x: -0.00000017787414, y: -0.000000087028724, z: 0.5058272, w: 0.86263484}
+  m_LocalPosition: {x: -2.8443375, y: 0.0000076293945, z: -0.0000076293945}
+  m_LocalScale: {x: 1.0001073, y: 0.9998909, z: 1.0000017}
+  m_Children: []
+  m_Father: {fileID: 4900385936412888}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000011820842, y: -0.000028120576, z: 60.772552}
+--- !u!4 &4645294599161994
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1954620360043242}
+  m_LocalRotation: {x: 0.7207955, y: -0.20002162, z: 0.28401065, w: 0.5998193}
+  m_LocalPosition: {x: -19.620205, y: 0.0000076293945, z: 0.0000076293945}
+  m_LocalScale: {x: 1.0000145, y: 0.99997896, z: 1.0000057}
+  m_Children:
+  - {fileID: 4472352437519070}
+  - {fileID: 4302600553557896}
+  - {fileID: 4222334030289854}
+  - {fileID: 4538627113477068}
+  - {fileID: 4588884480487220}
+  - {fileID: 4037078211779828}
+  m_Father: {fileID: 4572767981932768}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 67.55568, y: 97.650566, z: 126.85091}
+--- !u!4 &4672093688515920
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1266812202108226}
+  m_LocalRotation: {x: 0.50000006, y: -0.50000006, z: -0.49999994, w: 0.49999994}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children: []
+  m_Father: {fileID: 4407665771893934}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: -90.00001, z: -90}
+--- !u!4 &4710271356714624
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1836558717254424}
+  m_LocalRotation: {x: -0.00004315624, y: 0.00012348614, z: 0.23350626, w: 0.9723553}
+  m_LocalPosition: {x: -5.160904, y: 0.0000019073486, z: -0.0000076293945}
+  m_LocalScale: {x: 1.0000349, y: 0.9999629, z: 1.0000014}
+  m_Children:
+  - {fileID: 4855912957535368}
+  m_Father: {fileID: 4302600553557896}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000022400665, y: 0.014983475, z: -5.8283305}
+--- !u!4 &4723127404035316
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1683435333302636}
+  m_LocalRotation: {x: -0.2785301, y: -0.7036243, z: 0.34567374, w: 0.5548365}
+  m_LocalPosition: {x: 26.659584, y: 16.180779, z: -8.988281}
+  m_LocalScale: {x: -2.2974405, y: -2.297429, z: -2.297422}
+  m_Children: []
+  m_Father: {fileID: 4073957873833738}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4747680904262618
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1488680041921124}
+  m_LocalRotation: {x: 0.6793203, y: -0.46535686, z: 0.49297693, w: 0.2809641}
+  m_LocalPosition: {x: -0.1983638, y: 1.0334105, z: 0.23599403}
+  m_LocalScale: {x: 0.009999967, y: 0.009999958, z: 0.010000073}
+  m_Children: []
+  m_Father: {fileID: 4407665771893934}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 51.859413, y: 150.58249, z: -149.16803}
+--- !u!4 &4771047555369816
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1373659216244692}
+  m_LocalRotation: {x: 8.027391e-21, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4772675457045180}
+  m_Father: {fileID: 4144443606369862}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000026214353, y: 0.0000052294, z: 0.000001494123}
+--- !u!4 &4772675457045180
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1083753734145398}
+  m_LocalRotation: {x: 1.0658149e-14, y: 8.6551344e-14, z: -9.224771e-28, w: 1}
+  m_LocalPosition: {x: -11.72657, y: -2.0244129, z: 0.00000039416838}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4078046654292480}
+  m_Father: {fileID: 4771047555369816}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.15422535, y: -0.02590479, z: -1.4156945}
+--- !u!4 &4782691909617628
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1484659247692782}
+  m_LocalRotation: {x: 0.82553244, y: -0.17021492, z: 0.22248472, w: -0.4899221}
+  m_LocalPosition: {x: -19.620201, y: 0, z: -0.0000009536743}
+  m_LocalScale: {x: 0.9999986, y: 0.99999493, z: 1.0000067}
+  m_Children:
+  - {fileID: 4166615189260392}
+  - {fileID: 4491537289815854}
+  - {fileID: 4161232032000364}
+  - {fileID: 4251684766834160}
+  - {fileID: 4004424709105410}
+  m_Father: {fileID: 4004784647216802}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -32.773636, y: 133.17822, z: -130.94623}
+--- !u!4 &4788266984230566
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1740248300508682}
+  m_LocalRotation: {x: -0.4373433, y: -0.27301508, z: -0.36945865, w: 0.7731067}
+  m_LocalPosition: {x: -25.587908, y: -0.0000019073486, z: 0.000015258789}
+  m_LocalScale: {x: 1.0000011, y: 1.0000002, z: 0.99999875}
+  m_Children:
+  - {fileID: 4254899994583778}
+  m_Father: {fileID: 4607127175997120}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -60.203217, y: -0.65618896, z: -62.263332}
+--- !u!4 &4801268247171362
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1474535384193048}
+  m_LocalRotation: {x: 0.000085182815, y: -0.00009932843, z: 0.57242393, w: 0.8199578}
+  m_LocalPosition: {x: -5.160906, y: 0, z: -0.0000076293945}
+  m_LocalScale: {x: 1.0000042, y: 0.9999913, z: 1.0000049}
+  m_Children:
+  - {fileID: 4121290763748490}
+  m_Father: {fileID: 4491537289815854}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.014515227, y: -0.0037463848, z: 69.83887}
+--- !u!4 &4804956106418196
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1147963048098728}
+  m_LocalRotation: {x: 0.00000012183064, y: -0.00000013421152, z: 0.54122615, w: 0.84087706}
+  m_LocalPosition: {x: -3.5119076, y: 0.0000038146973, z: 0.0000076293945}
+  m_LocalScale: {x: 1.0001153, y: 0.9998831, z: 1.0000008}
+  m_Children: []
+  m_Father: {fileID: 4918469275500900}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000024283128, y: -0.000008469123, z: 65.534294}
+--- !u!4 &4823754656349254
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1712721034116486}
+  m_LocalRotation: {x: 0.00000009010865, y: 0.000000009810413, z: 0.27018753, w: 0.9628077}
+  m_LocalPosition: {x: -5.4444094, y: 0, z: -0.0000038146973}
+  m_LocalScale: {x: 1.0000316, y: 0.999989, z: 0.9999792}
+  m_Children:
+  - {fileID: 4129361246611082}
+  m_Father: {fileID: 4472352437519070}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000021538744, y: 0.0000063107072, z: 31.350857}
+--- !u!4 &4855912957535368
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1614786929758166}
+  m_LocalRotation: {x: 0.000017696328, y: -0.000117012605, z: 0.34555945, w: 0.9383969}
+  m_LocalPosition: {x: -2.8332596, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000683, y: 0.9999297, z: 1.0000015}
+  m_Children: []
+  m_Father: {fileID: 4710271356714624}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00095384393, y: -0.013522359, z: 7.5961614}
+--- !u!4 &4874821108915726
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1477780727349000}
+  m_LocalRotation: {x: 0.000000013771397, y: 0.000000008125275, z: -0.000000029802322,
+    w: 1}
+  m_LocalPosition: {x: -8.958405, y: 0.0000076293945, z: 0.0000002430064}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4539822120874666}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 11.230981, y: 7.403116, z: 1.9801542}
+--- !u!4 &4900385936412888
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1907529908536202}
+  m_LocalRotation: {x: 0.000000093210716, y: -0.00000011719511, z: 0.54149306, w: 0.8407052}
+  m_LocalPosition: {x: -5.8000374, y: -0.0000038146973, z: -0.0000076293945}
+  m_LocalScale: {x: 1.0000814, y: 0.99991673, z: 1.0000014}
+  m_Children:
+  - {fileID: 4631734647394294}
+  m_Father: {fileID: 4538627113477068}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000042415313, y: -0.000011304644, z: 65.57069}
+--- !u!4 &4902230592083152
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1663554649553356}
+  m_LocalRotation: {x: -0.027246216, y: 0.010045699, z: 0.13823093, w: 0.98997426}
+  m_LocalPosition: {x: -46.22062, y: 0.00020503998, z: 0.00013542175}
+  m_LocalScale: {x: 1.0000038, y: 0.99999726, z: 0.9999991}
+  m_Children:
+  - {fileID: 4624186231152012}
+  m_Father: {fileID: 4151404882321764}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -3.45052, y: 1.2063742, z: 27.723993}
+--- !u!4 &4918469275500900
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1497394636268958}
+  m_LocalRotation: {x: -0.00000011536877, y: 0.00000017379179, z: 0.5530649, w: 0.8331382}
+  m_LocalPosition: {x: -5.528618, y: -0.0000019073486, z: 0}
+  m_LocalScale: {x: 1.0000827, y: 0.9999154, z: 1.0000008}
+  m_Children:
+  - {fileID: 4804956106418196}
+  m_Father: {fileID: 4222334030289854}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00002940102, y: 0.0000049740934, z: 67.15506}
+--- !u!4 &4933710480602252
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1762536073087452}
+  m_LocalRotation: {x: 0.000000010071427, y: -0.000000045459892, z: 0.48106828, w: 0.8766831}
+  m_LocalPosition: {x: -1.8422127, y: -0.0000076293945, z: 0}
+  m_LocalScale: {x: 1.0001011, y: 0.9998968, z: 1.0000018}
+  m_Children: []
+  m_Father: {fileID: 4223465583014042}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000022932381, y: 0.0000036011286, z: 57.510406}
+--- !u!4 &4940396768328700
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1984187801814894}
+  m_LocalRotation: {x: 0.6523771, y: -0.2966082, z: 0.27277043, w: 0.64189094}
+  m_LocalPosition: {x: -0, y: 1.3137134, z: 0.088296}
+  m_LocalScale: {x: -0.022974303, y: -0.02297431, z: -0.022974307}
+  m_Children: []
+  m_Father: {fileID: 4407665771893934}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4967501846031534
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1999977806219050}
+  m_LocalRotation: {x: 0.000000059369093, y: -0.0000001744922, z: 0.54210216, w: 0.8403126}
+  m_LocalPosition: {x: -5.52862, y: -0.0000019073486, z: 0}
+  m_LocalScale: {x: 1.0000103, y: 0.9999884, z: 1.0000011}
+  m_Children:
+  - {fileID: 4627776378016882}
+  m_Father: {fileID: 4161232032000364}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000017788261, y: -0.000010391783, z: 65.653725}
+--- !u!4 &4971105175181352
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1134109640516412}
+  m_LocalRotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+  m_LocalPosition: {x: -0.14999999, y: -0.000000005292851, z: 0.033222552}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children: []
+  m_Father: {fileID: 4407665771893934}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: -97.99998, z: -90}
+--- !u!4 &4992243442246738
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1951878123384906}
+  m_LocalRotation: {x: 0.00093015004, y: -0.01997887, z: -0.44130224, w: 0.8971356}
+  m_LocalPosition: {x: -23.890205, y: -0.0000038146973, z: 0}
+  m_LocalScale: {x: 0.99999774, y: 1.0000013, z: 1.0000014}
+  m_Children:
+  - {fileID: 4004784647216802}
+  m_Father: {fileID: 4228399934299352}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.93644345, y: -2.1182353, z: -52.95737}
+--- !u!23 &23085224678311244
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1954678319535634}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 620197c07b9d34c449f1bc987e456217, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23122729294679878
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410703303728070}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 620197c07b9d34c449f1bc987e456217, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23266684284461570
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1683435333302636}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 620197c07b9d34c449f1bc987e456217, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23352470266896584
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1266812202108226}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100004, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23451041825513356
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1158331319400862}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23535761925617968
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582955103410168}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: cff2e08e2ce07364b97a2ddd4a589521, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23592287415850288
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1624978335314990}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 620197c07b9d34c449f1bc987e456217, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23758999766170714
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1317853884830220}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 620197c07b9d34c449f1bc987e456217, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23847836266637296
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1687175582733582}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 620197c07b9d34c449f1bc987e456217, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23950450271567340
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1615416567462796}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 201b745bc33807346bd9062e0cf7b014, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &33039519409952576
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1624978335314990}
+  m_Mesh: {fileID: 4300018, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+--- !u!33 &33043011451190062
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1158331319400862}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &33071193514283026
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1954678319535634}
+  m_Mesh: {fileID: 4300016, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+--- !u!33 &33502588274134706
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1615416567462796}
+  m_Mesh: {fileID: 4300000, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+--- !u!33 &33543816788831234
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1317853884830220}
+  m_Mesh: {fileID: 4300014, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+--- !u!33 &33556183793451968
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582955103410168}
+  m_Mesh: {fileID: 4300008, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+--- !u!33 &33705916542598828
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1266812202108226}
+  m_Mesh: {fileID: 4300004, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+--- !u!33 &33717318406012190
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410703303728070}
+  m_Mesh: {fileID: 4300006, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+--- !u!33 &33731362957666752
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1683435333302636}
+  m_Mesh: {fileID: 4300010, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+--- !u!33 &33732001931015688
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1687175582733582}
+  m_Mesh: {fileID: 4300012, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+--- !u!65 &65204145706116666
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1158331319400862}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!82 &82642890530975858
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1158331319400862}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!95 &95029175126151484
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1257727979829934}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+  m_Controller: {fileID: 9100000, guid: 37c2d0c1088c2c446bcdfc3bbb94f663, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!95 &95224163151469096
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1712816721488960}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 427ae6c1c4132ec448b89a216bec61ad, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!95 &95351845894332440
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1158331319400862}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2973449117205204f9d3d4f36f9a9014, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114056743432030692
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1257727979829934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ddf5c9bfed36f9479de52357f7f1547, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _GUID: 
+  BoneTransforms:
+  - {fileID: 4144443606369862}
+  - {fileID: 4771047555369816}
+  - {fileID: 4772675457045180}
+  - {fileID: 4078046654292480}
+  - {fileID: 4181950620685434}
+  - {fileID: 4267087895242776}
+  - {fileID: 4228399934299352}
+  - {fileID: 4992243442246738}
+  - {fileID: 4004784647216802}
+  - {fileID: 4782691909617628}
+  - {fileID: 4166615189260392}
+  - {fileID: 4543305526480094}
+  - {fileID: 4339252387131044}
+  - {fileID: 4491537289815854}
+  - {fileID: 4801268247171362}
+  - {fileID: 4121290763748490}
+  - {fileID: 4161232032000364}
+  - {fileID: 4967501846031534}
+  - {fileID: 4627776378016882}
+  - {fileID: 4251684766834160}
+  - {fileID: 4443843140797598}
+  - {fileID: 4494100631363592}
+  - {fileID: 4004424709105410}
+  - {fileID: 4378321392328660}
+  - {fileID: 4011241668258466}
+  - {fileID: 4607127175997120}
+  - {fileID: 4788266984230566}
+  - {fileID: 4254899994583778}
+  - {fileID: 4572767981932768}
+  - {fileID: 4645294599161994}
+  - {fileID: 4472352437519070}
+  - {fileID: 4823754656349254}
+  - {fileID: 4129361246611082}
+  - {fileID: 4302600553557896}
+  - {fileID: 4710271356714624}
+  - {fileID: 4855912957535368}
+  - {fileID: 4222334030289854}
+  - {fileID: 4918469275500900}
+  - {fileID: 4804956106418196}
+  - {fileID: 4538627113477068}
+  - {fileID: 4900385936412888}
+  - {fileID: 4631734647394294}
+  - {fileID: 4588884480487220}
+  - {fileID: 4223465583014042}
+  - {fileID: 4933710480602252}
+  - {fileID: 4539822120874666}
+  - {fileID: 4874821108915726}
+  - {fileID: 4452765280244732}
+  - {fileID: 4151404882321764}
+  - {fileID: 4902230592083152}
+  - {fileID: 4624186231152012}
+  - {fileID: 4596668608902200}
+  - {fileID: 4041312547702472}
+  - {fileID: 4073957873833738}
+  - {fileID: 4097455192722092}
+  - {fileID: 4020737056054176}
+  - {fileID: 4314579885788374}
+  - {fileID: 4723127404035316}
+  - {fileID: 4059752449602898}
+  - {fileID: 4225319615650312}
+  - {fileID: 4169138837269808}
+  - {fileID: 4122444213985782}
+  - {fileID: 4407665771893934}
+  _RootTransform: {fileID: 4144443606369862}
+  Bones:
+  - _GUID: 
+    _Name: CATRigHub001
+    _Transform: {fileID: 4144443606369862}
+    _BindRotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+    _BindPosition: {x: 2.4442667e-14, y: 1.021122, z: -0.03248747}
+    _BindMatrix:
+      e00: -0.000000005435175
+      e01: -100
+      e02: -0.00000004163128
+      e03: 102.1122
+      e10: 0.0000005925181
+      e11: 0.000000087064436
+      e12: 99.99999
+      e13: 3.248747
+      e20: -100
+      e21: 0.000000079065906
+      e22: -0.00000046225605
+      e23: 2.4442668e-12
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9410598, y: 0.33824036, z: -0.00000035591847}
+    _BoneUp: {x: 0.33824036, y: 0.94105977, z: 0.00000012792596}
+    _BoneRight: {x: -0.00000035591847, y: 0, z: 0.9410598}
+    _ToBoneForward: {x: -0.12138803, y: -0.69660974, z: -0.12138808, w: 0.6966095}
+    _IsDirty: 0
+    _Length: 0.16746713
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: -1
+    SerializationChildIndexes: 0100000030000000350000003b0000003c0000003d000000
+    _ToBoneForwardInv: {x: 0.12138803, y: 0.69660974, z: 0.12138808, w: 0.6966095}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigHub001Bone001
+    _Transform: {fileID: 4771047555369816}
+    _BindRotation: {x: 8.027391e-21, y: -0, z: -0, w: 1}
+    _BindPosition: {x: -0, y: 0, z: 0}
+    _BindMatrix:
+      e00: 1
+      e01: -4.0435927e-10
+      e02: 6.0526706e-10
+      e03: -0.00000015765463
+      e10: -9.721274e-10
+      e11: 0.9999999
+      e12: -0.00000000641922
+      e13: 0.0000005080823
+      e20: -8.559211e-10
+      e21: -0.0000000047824558
+      e22: 1
+      e23: 0.00000007075732
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9854236, y: -0.17011832, z: 0}
+    _BoneUp: {x: -0.17011832, y: 0.9854236, z: 0}
+    _BoneRight: {x: 0, y: -0, z: 0.9854236}
+    _ToBoneForward: {x: 0.060366295, y: -0.70452535, z: 0.060366295, w: 0.70452535}
+    _IsDirty: 0
+    _Length: 0.11900029
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 0
+    SerializationChildIndexes: 02000000
+    _ToBoneForwardInv: {x: -0.060366295, y: 0.70452535, z: -0.060366295, w: 0.70452535}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigSpine1
+    _Transform: {fileID: 4772675457045180}
+    _BindRotation: {x: 1.0658149e-14, y: 8.6551344e-14, z: -9.224771e-28, w: 1}
+    _BindPosition: {x: -11.72657, y: -2.0244129, z: 0.00000039416838}
+    _BindMatrix:
+      e00: 1
+      e01: -4.0435927e-10
+      e02: 6.0526706e-10
+      e03: 11.72657
+      e10: -9.721274e-10
+      e11: 0.9999999
+      e12: -0.00000000641922
+      e13: 2.0244133
+      e20: -8.559211e-10
+      e21: -0.0000000047824558
+      e22: 1
+      e23: -0.0000003233915
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0, z: 0}
+    _BoneUp: {x: 0, y: 1, z: 0}
+    _BoneRight: {x: 0, y: -0, z: 1}
+    _ToBoneForward: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+    _IsDirty: 0
+    _Length: 0.13950062
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 1
+    SerializationChildIndexes: 03000000
+    _ToBoneForwardInv: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigSpine2
+    _Transform: {fileID: 4078046654292480}
+    _BindRotation: {x: 4.2632534e-14, y: 1.3672345e-13, z: 2.842171e-14, w: 1}
+    _BindPosition: {x: -13.950027, y: 0, z: 5.869083e-12}
+    _BindMatrix:
+      e00: 1
+      e01: -4.0435927e-10
+      e02: 6.0526706e-10
+      e03: 13.950024
+      e10: -9.721274e-10
+      e11: 0.9999999
+      e12: -0.00000000641922
+      e13: 0.00000052674756
+      e20: -8.559211e-10
+      e21: -0.0000000047824558
+      e22: 1
+      e23: 0.00000009088237
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0, z: 0}
+    _BoneUp: {x: 0, y: 1, z: 0}
+    _BoneRight: {x: 0, y: -0, z: 1}
+    _ToBoneForward: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+    _IsDirty: 0
+    _Length: 0.0848217
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 2
+    SerializationChildIndexes: 04000000
+    _ToBoneForwardInv: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigHub002
+    _Transform: {fileID: 4181950620685434}
+    _BindRotation: {x: -7.722453e-21, y: 1.8900409e-14, z: 1.4595752e-34, w: 1}
+    _BindPosition: {x: -8.482193, y: 0, z: 1.0729195e-12}
+    _BindMatrix:
+      e00: 1
+      e01: -4.0435927e-10
+      e02: 6.0526706e-10
+      e03: 8.482195
+      e10: -9.721274e-10
+      e11: 0.9999999
+      e12: -0.00000000641922
+      e13: 0.00000056338337
+      e20: -8.559211e-10
+      e21: -0.0000000047824558
+      e22: 1
+      e23: 0.00000016530346
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.99988115, y: 0.015419992, z: 0}
+    _BoneUp: {x: -0.015419993, y: -0.9998811, z: -0}
+    _BoneRight: {x: 0, y: 0, z: -0.5329467}
+    _ToBoneForward: {x: 0.7070858, y: -0.005451952, z: -0.7070857, w: -0.005451952}
+    _IsDirty: 0
+    _Length: 0.22435693
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 3
+    SerializationChildIndexes: 05000000190000002d0000002f000000
+    _ToBoneForwardInv: {x: -0.7070858, y: 0.005451952, z: 0.7070857, w: -0.005451952}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmCollarbone
+    _Transform: {fileID: 4267087895242776}
+    _BindRotation: {x: 0.27819362, y: 0.62915766, z: 0.30038238, w: 0.6607113}
+    _BindPosition: {x: -23.218002, y: 16.86267, z: 5.3293443}
+    _BindMatrix:
+      e00: 0.027862137
+      e01: 0.74698734
+      e02: -0.6642543
+      e03: -8.40926
+      e10: -0.046876762
+      e11: 0.6647574
+      e12: 0.7455871
+      e13: -16.271461
+      e20: 0.9985122
+      e21: 0.010364382
+      e22: 0.053537905
+      e23: 22.72335
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: -0.000000056721372, z: -0.0000012853577}
+    _BoneUp: {x: 0.0000012812836, y: 0.046894997, z: -0.9988998}
+    _BoneRight: {x: -0.00000011689041, y: 0.99851197, z: 0.04687679}
+    _ToBoneForward: {x: -0.48813578, y: -0.51158977, z: 0.48813522, w: 0.5115891}
+    _IsDirty: 0
+    _Length: 0.25587907
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 4
+    SerializationChildIndexes: 06000000
+    _ToBoneForwardInv: {x: 0.48813578, y: 0.51158977, z: -0.48813522, w: 0.5115891}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArm1
+    _Transform: {fileID: 4228399934299352}
+    _BindRotation: {x: 0.5018324, y: 0.41920975, z: -0.4489275, w: 0.6090086}
+    _BindPosition: {x: -25.58791, y: 0, z: 0}
+    _BindMatrix:
+      e00: 0.24545498
+      e01: -0.1260555
+      e02: -0.9611791
+      e03: 6.28069
+      e10: 0.9675471
+      e11: 0.09325646
+      e12: 0.23485093
+      e13: 24.757507
+      e20: 0.060031973
+      e21: -0.98762906
+      e22: 0.14485471
+      e23: 1.5360868
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.0000002081354, z: 0.00000042240086}
+    _BoneUp: {x: -0.00000009428538, y: 0.7903514, z: -0.6126538}
+    _BoneRight: {x: 0.00000045950463, y: 0.6101899, z: 0.78717285}
+    _ToBoneForward: {x: -0.22893701, y: -0.6690199, z: 0.22893699, w: 0.66902024}
+    _IsDirty: 0
+    _Length: 0.23890209
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 5
+    SerializationChildIndexes: 07000000
+    _ToBoneForwardInv: {x: 0.22893701, y: 0.6690199, z: -0.22893699, w: 0.66902024}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArm21
+    _Transform: {fileID: 4992243442246738}
+    _BindRotation: {x: 0.00093015004, y: -0.01997887, z: -0.44130224, w: 0.8971356}
+    _BindPosition: {x: -23.890205, y: -0.0000038146973, z: 0}
+    _BindMatrix:
+      e00: 0.6097078
+      e01: -0.7918549
+      e02: 0.03502647
+      e03: 14.566041
+      e10: 0.79177785
+      e11: 0.6105021
+      e12: 0.019302476
+      e13: 18.915745
+      e20: -0.036668498
+      e21: 0.015964482
+      e22: 0.9991988
+      e23: -0.8760246
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.0000008334667, z: -0.00000042156063}
+    _BoneUp: {x: 0.00000092987364, y: 0.93084025, z: -0.3654263}
+    _BoneRight: {x: -0.000000055592157, y: 0.23128423, z: 0.5891439}
+    _ToBoneForward: {x: -0.1314915, y: -0.6947735, z: 0.13149087, w: 0.6947733}
+    _IsDirty: 0
+    _Length: 0.19620144
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 6
+    SerializationChildIndexes: 08000000
+    _ToBoneForwardInv: {x: 0.1314915, y: 0.6947735, z: -0.13149087, w: 0.6947733}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArm22
+    _Transform: {fileID: 4004784647216802}
+    _BindRotation: {x: -0.24721079, y: 0.000000010903055, z: -0.000000012596791, w: 0.9689617}
+    _BindPosition: {x: -19.620201, y: 0, z: 0}
+    _BindMatrix:
+      e00: 1.0000001
+      e01: 0.0000000989885
+      e02: -0.0000001630006
+      e03: 19.620182
+      e10: 0.000000089557986
+      e11: 0.8777737
+      e12: -0.4790756
+      e13: -0.000001880866
+      e20: -0.000000008560043
+      e21: 0.4790756
+      e22: 0.8777737
+      e23: -0.0000077495415
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.99999994, y: 0.0000009166706, z: 0.00000080926804}
+    _BoneUp: {x: 0.0000010107658, y: 0.9921338, z: 0.12518199}
+    _BoneRight: {x: 0.0000004355423, y: -0.079229705, z: 0.62793756}
+    _ToBoneForward: {x: 0.044345465, y: -0.7057146, z: -0.04434615, w: 0.7057151}
+    _IsDirty: 0
+    _Length: 0.19620147
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 7
+    SerializationChildIndexes: 09000000
+    _ToBoneForwardInv: {x: -0.044345465, y: 0.7057146, z: 0.04434615, w: 0.7057151}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmPalm
+    _Transform: {fileID: 4782691909617628}
+    _BindRotation: {x: 0.82553244, y: -0.17021492, z: 0.22248472, w: -0.4899221}
+    _BindPosition: {x: -19.620201, y: 0, z: -0.0000009536743}
+    _BindMatrix:
+      e00: 0.8430561
+      e01: -0.49903697
+      e02: 0.20055294
+      e03: 16.540928
+      e10: -0.06303582
+      e11: -0.46200892
+      e12: -0.88463825
+      e13: -1.2367753
+      e20: 0.53411746
+      e21: 0.7331482
+      e22: -0.4209513
+      e23: 10.479488
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9985349, y: -0.015119724, z: 0.051956564}
+    _BoneUp: {x: 0.053363442, y: -0.4342858, z: 0.89919305}
+    _BoneRight: {x: -0.008541523, y: -0.8577748, z: -0.41377497}
+    _ToBoneForward: {x: -0.58595234, y: 0.36149898, z: 0.6113941, w: -0.39009684}
+    _IsDirty: 0
+    _Length: 0.09001486
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 8
+    SerializationChildIndexes: 0a0000000d000000100000001300000016000000
+    _ToBoneForwardInv: {x: 0.58595234, y: -0.36149898, z: -0.6113941, w: -0.39009684}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit11
+    _Transform: {fileID: 4166615189260392}
+    _BindRotation: {x: 0.5875394, y: 0.3650402, z: 0.025093507, w: 0.72174335}
+    _BindPosition: {x: -1.3188877, y: -0.8376808, z: 3.4560928}
+    _BindMatrix:
+      e00: 0.73223495
+      e01: 0.46517512
+      e02: -0.49744597
+      e03: 3.074622
+      e10: 0.39273
+      e11: 0.30833682
+      e12: 0.86642855
+      e13: -2.2181964
+      e20: 0.5564138
+      e21: -0.82977986
+      e22: 0.04308592
+      e23: -0.110158026
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: 0.00000091585383, z: -0.000003962228}
+    _BoneUp: {x: -0.0000016984613, y: 0.7912075, z: 0.61154777}
+    _BoneRight: {x: -0.0000034637085, y: -0.5732624, z: 0.74167466}
+    _ToBoneForward: {x: 0.22846924, y: -0.6691814, z: -0.22846894, w: 0.6691786}
+    _IsDirty: 0
+    _Length: 0.054443907
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 9
+    SerializationChildIndexes: 0b000000
+    _ToBoneForwardInv: {x: -0.22846924, y: 0.6691814, z: 0.22846894, w: 0.6691786}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit12
+    _Transform: {fileID: 4543305526480094}
+    _BindRotation: {x: -0.000000024463514, y: 0.00000002262217, z: 0.35306194, w: 0.9356}
+    _BindPosition: {x: -5.4444084, y: 0.0000076293945, z: 0}
+    _BindMatrix:
+      e00: 0.75069773
+      e01: 0.6606524
+      e02: -0.00000020063416
+      e03: 4.087098
+      e10: -0.66064435
+      e11: 0.7506886
+      e12: -0.0000000066450525
+      e13: -3.596813
+      e20: -0.00000025728724
+      e21: -0.000000064793134
+      e22: 1.0000048
+      e23: -0.000002057845
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9999997, y: -0.000008547608, z: -0.0000061455307}
+    _BoneUp: {x: -0.0000105273375, y: 0.80824554, z: 0.5888456}
+    _BoneRight: {x: 0.000000064373154, y: -0.5732593, z: 0.7868518}
+    _ToBoneForward: {x: 0.21895243, y: -0.67235625, z: -0.21894534, w: 0.672354}
+    _IsDirty: 0
+    _Length: 0.054698966
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 10
+    SerializationChildIndexes: 0c000000
+    _ToBoneForwardInv: {x: -0.21895243, y: 0.67235625, z: 0.21894534, w: 0.672354}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit13
+    _Transform: {fileID: 4339252387131044}
+    _BindRotation: {x: 0.00000012328194, y: 0.000000281371, z: -0.014428068, w: 0.99989593}
+    _BindPosition: {x: -5.4699383, y: 0.0000076293945, z: 0}
+    _BindMatrix:
+      e00: 0.9995783
+      e01: -0.02885274
+      e02: -0.0000007629771
+      e03: 5.46763
+      e10: 0.028853217
+      e11: 0.99958587
+      e12: 0.00000033372504
+      e13: 0.15781678
+      e20: 0.00000031696376
+      e21: -0.00000029499924
+      e22: 1.0000048
+      e23: 0.00000011960708
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9999997, y: -0.000008547608, z: -0.0000061455307}
+    _BoneUp: {x: -0.000010527512, y: 0.81046027, z: 0.5857936}
+    _BoneRight: {x: 0.000000025860512, y: -0.5732594, z: 0.79311883}
+    _ToBoneForward: {x: 0.21768434, y: -0.6727679, z: -0.21767725, w: 0.6727656}
+    _IsDirty: 0
+    _Length: 0.010939794
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 11
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: -0.21768434, y: 0.6727679, z: 0.21767725, w: 0.6727656}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit21
+    _Transform: {fileID: 4491537289815854}
+    _BindRotation: {x: 0.014098109, y: 0.02910881, z: 0.43574896, w: 0.89948696}
+    _BindPosition: {x: -11.360609, y: -0.23324203, z: 4.008156}
+    _BindMatrix:
+      e00: 0.61855096
+      e01: 0.78472215
+      e02: -0.04007934
+      e03: 7.370794
+      e10: -0.7830844
+      e11: 0.6198517
+      e12: 0.050730854
+      e13: -8.955076
+      e20: 0.064652175
+      e21: 0.000006267755
+      e22: 0.9979031
+      e23: -3.2652605
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.0000028840234, z: -0.0000043967184}
+    _BoneUp: {x: -0.00000524732, y: -0.4935699, z: 0.86970615}
+    _BoneRight: {x: -0.00000033507368, y: -0.8617557, z: -0.48905793}
+    _ToBoneForward: {x: 0.6110593, y: -0.3558212, z: -0.61105764, w: 0.35581788}
+    _IsDirty: 0
+    _Length: 0.05160892
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 9
+    SerializationChildIndexes: 0e000000
+    _ToBoneForwardInv: {x: -0.6110593, y: 0.3558212, z: 0.61105764, w: 0.35581788}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit22
+    _Transform: {fileID: 4801268247171362}
+    _BindRotation: {x: 0.000085182815, y: -0.00009932843, z: 0.57242393, w: 0.8199578}
+    _BindPosition: {x: -5.160906, y: 0, z: -0.0000076293945}
+    _BindMatrix:
+      e00: 0.3446605
+      e01: 0.93872344
+      e02: 0.00026056846
+      e03: 1.7787734
+      e10: -0.93873537
+      e11: 0.3446647
+      e12: 0.000025937125
+      e13: -4.844721
+      e20: -0.00006537143
+      e21: -0.00025339573
+      e22: 0.9999956
+      e23: -0.00034368402
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: -0.0000028889856, z: 0.0000058374753}
+    _BoneUp: {x: 0.0000059708445, y: -0.048547518, z: 0.9988209}
+    _BoneRight: {x: 0.000002245431, y: -0.861885, z: -0.041891776}
+    _ToBoneForward: {x: -0.5119923, y: 0.48771003, z: 0.5119938, w: -0.48771432}
+    _IsDirty: 0
+    _Length: 0.028332606
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 13
+    SerializationChildIndexes: 0f000000
+    _ToBoneForwardInv: {x: 0.5119923, y: -0.48771003, z: -0.5119938, w: -0.48771432}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit23
+    _Transform: {fileID: 4121290763748490}
+    _BindRotation: {x: -0.000058366408, y: 0.00010289866, z: 0.6577829, w: 0.75320756}
+    _BindPosition: {x: -2.8332558, y: 0, z: -0.0000076293945}
+    _BindMatrix:
+      e00: 0.13464218
+      e01: 0.99088544
+      e02: -0.00023176211
+      e03: 0.3814766
+      e10: -0.99090767
+      e11: 0.13464524
+      e12: 0.000047356276
+      e13: -2.8074949
+      e20: 0.000078333534
+      e21: 0.0002232572
+      e22: 0.9999955
+      e23: 0.0002182266
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: -0.0000028889856, z: 0.0000058374753}
+    _BoneUp: {x: 0.0000036223225, y: 0.49817407, z: 0.86707705}
+    _BoneRight: {x: 0.0000053803474, y: -0.86183846, z: 0.49516428}
+    _ToBoneForward: {x: 0.35419822, y: -0.6119973, z: -0.35419852, w: 0.6120019}
+    _IsDirty: 0
+    _Length: 0.0056665214
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 14
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: -0.35419822, y: 0.6119973, z: 0.35419852, w: 0.6120019}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit31
+    _Transform: {fileID: 4161232032000364}
+    _BindRotation: {x: -0.020045232, y: 0.048344728, z: 0.38248777, w: 0.9224771}
+    _BindPosition: {x: -10.990471, y: 0.3263626, z: 0.7722397}
+    _BindMatrix:
+      e00: 0.70272934
+      e01: 0.7037322
+      e02: -0.10452747
+      e03: 7.574376
+      e10: -0.7076141
+      e11: 0.7066064
+      e12: 0.0000001891547
+      e13: -8.007626
+      e20: 0.07385958
+      e21: 0.07396519
+      e22: 0.994521
+      e23: 0.019608183
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.99999994, y: 0.0000030266922, z: 0.0000004946957}
+    _BoneUp: {x: -0.0000012338307, y: -0.54471743, z: 0.83861965}
+    _BoneRight: {x: -0.0000027853173, y: -0.83193034, z: -0.5403725}
+    _ToBoneForward: {x: -0.62143266, y: 0.337374, z: 0.621434, w: -0.33737227}
+    _IsDirty: 0
+    _Length: 0.055286154
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 9
+    SerializationChildIndexes: 11000000
+    _ToBoneForwardInv: {x: 0.62143266, y: -0.337374, z: -0.621434, w: -0.33737227}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit32
+    _Transform: {fileID: 4967501846031534}
+    _BindRotation: {x: 0.000000059369093, y: -0.0000001744922, z: 0.54210216, w: 0.8403126}
+    _BindPosition: {x: -5.52862, y: -0.0000019073486, z: 0}
+    _BindMatrix:
+      e00: 0.41224656
+      e01: 0.91106147
+      e02: 0.0000005542886
+      e03: 2.2791562
+      e10: -0.9110814
+      e11: 0.41225526
+      e12: -0.00000007030515
+      e13: -5.03702
+      e20: -0.00000020379224
+      e21: -0.000000063068896
+      e22: 0.99999946
+      e23: -0.000010634063
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000002, y: 0.0000018440817, z: 0.000003316889}
+    _BoneUp: {x: 0.0000030520807, y: -0.12865151, z: 0.99168986}
+    _BoneRight: {x: -0.0000018921228, y: -0.83192915, z: -0.107925825}
+    _ToBoneForward: {x: -0.5311888, y: 0.46673, z: 0.5311914, w: -0.46673056}
+    _IsDirty: 0
+    _Length: 0.0351194
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 16
+    SerializationChildIndexes: 12000000
+    _ToBoneForwardInv: {x: 0.5311888, y: -0.46673, z: -0.5311914, w: -0.46673056}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit33
+    _Transform: {fileID: 4627776378016882}
+    _BindRotation: {x: -0.00000006005781, y: 0.00000020848292, z: 0.5301573, w: 0.8478994}
+    _BindPosition: {x: -3.511917, y: -0.0000009536743, z: 0.0000076293945}
+    _BindMatrix:
+      e00: 0.4378588
+      e01: 0.8990246
+      e02: -0.00000031236675
+      e03: 1.5377339
+      e10: -0.8990573
+      e11: 0.43787485
+      e12: 0.000000107316595
+      e13: -3.1574106
+      e20: 0.0000004141203
+      e21: 0.00000032445902
+      e22: 0.9999994
+      e23: -0.0000073909378
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000002, y: 0.0000018440817, z: 0.000003316889}
+    _BoneUp: {x: 0.000003794364, y: 0.46924835, z: 0.88306624}
+    _BoneRight: {x: -0.00000006783206, y: -0.8319294, z: 0.44207498}
+    _ToBoneForward: {x: 0.36426237, y: -0.6060621, z: -0.3642647, w: 0.6060634}
+    _IsDirty: 0
+    _Length: 0.00702388
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 17
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: -0.36426237, y: 0.6060621, z: 0.3642647, w: 0.6060634}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit41
+    _Transform: {fileID: 4251684766834160}
+    _BindRotation: {x: -0.018090155, y: 0.014411215, z: 0.3916937, w: 0.919805}
+    _BindPosition: {x: -10.717901, y: 0.48456383, z: -1.8627853}
+    _BindMatrix:
+      e00: 0.6927345
+      e01: 0.7200401
+      e02: -0.040682364
+      e03: 6.999971
+      e10: -0.72108835
+      e11: 0.6925009
+      e12: -0.021989249
+      e13: -8.1050825
+      e20: 0.012339368
+      e21: 0.04456847
+      e22: 0.99893004
+      e23: 1.971455
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000002, y: -0.00000285811, z: 0.0000052657765}
+    _BoneUp: {x: 0.0000059633467, y: -0.55978626, z: 0.828637}
+    _BoneRight: {x: -0.00000057739334, y: -0.82580465, z: -0.5578729}
+    _ToBoneForward: {x: -0.62445587, y: 0.33174124, z: 0.6244582, w: -0.33174476}
+    _IsDirty: 0
+    _Length: 0.058000457
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 9
+    SerializationChildIndexes: 14000000
+    _ToBoneForwardInv: {x: 0.62445587, y: -0.33174124, z: -0.6244582, w: -0.33174476}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit42
+    _Transform: {fileID: 4443843140797598}
+    _BindRotation: {x: -0.00000003672792, y: 0.00000019722066, z: 0.43236864, w: 0.9016969}
+    _BindPosition: {x: -5.8000374, y: 0.0000019073486, z: -0.0000076293945}
+    _BindMatrix:
+      e00: 0.6261093
+      e01: 0.7797238
+      e02: -0.00000031169193
+      e03: 3.6314676
+      e10: -0.7797388
+      e11: 0.62612104
+      e12: 0.00000017563953
+      e13: -4.5225067
+      e20: 0.0000004124227
+      e21: 0.0000002080567
+      e22: 0.99999976
+      e23: -0.0000069067255
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.99999994, y: 0.0000042520737, z: -0.000009027879}
+    _BoneUp: {x: -0.000009920989, y: -0.32611287, z: 0.9453308}
+    _BoneRight: {x: -0.00000093952804, y: -0.825809, z: -0.28488117}
+    _ToBoneForward: {x: 0.57578665, y: -0.41045624, z: -0.5757832, w: 0.4104501}
+    _IsDirty: 0
+    _Length: 0.028443364
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 19
+    SerializationChildIndexes: 15000000
+    _ToBoneForwardInv: {x: -0.57578665, y: 0.41045624, z: 0.5757832, w: 0.4104501}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit43
+    _Transform: {fileID: 4494100631363592}
+    _BindRotation: {x: -0.000000013694495, y: -0.000000005874685, z: 0.39423767, w: 0.91900855}
+    _BindPosition: {x: -2.844349, y: 0, z: 0.0000076293945}
+    _BindMatrix:
+      e00: 0.6891439
+      e01: 0.7246055
+      e02: 0.00000012218062
+      e03: 1.9601741
+      e10: -0.72462666
+      e11: 0.68916386
+      e12: 0.00000007396292
+      e13: -2.0610871
+      e20: 0.00000013640324
+      e21: 0.00000007394017
+      e22: 0.9999999
+      e23: -0.00003346241
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.99999994, y: 0.0000042520737, z: -0.000009027879}
+    _BoneUp: {x: -0.000008079292, y: 0.1860275, z: 0.98254454}
+    _BoneRight: {x: -0.0000049229357, y: -0.8258097, z: 0.15635252}
+    _ToBoneForward: {x: 0.451103, y: -0.5445279, z: -0.4511012, w: 0.54452103}
+    _IsDirty: 0
+    _Length: 0.005688673
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 20
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: -0.451103, y: 0.5445279, z: 0.4511012, w: 0.54452103}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit51
+    _Transform: {fileID: 4004424709105410}
+    _BindRotation: {x: -0.055704076, y: -0.023694098, z: 0.44288924, w: 0.8945305}
+    _BindPosition: {x: -10.5536785, y: -0.4205551, z: -4.035263}
+    _BindMatrix:
+      e00: 0.60657334
+      e01: 0.79499316
+      e02: -0.0069511733
+      e03: 6.7078714
+      e10: -0.78971976
+      e11: 0.6014953
+      e12: -0.12064623
+      e13: -8.568329
+      e20: -0.09173166
+      e21: 0.078670286
+      e22: 0.99267083
+      e23: 3.0706577
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: -0.0000048565025, z: 0.000007564512}
+    _BoneUp: {x: 0.000008931317, y: -0.6321899, z: 0.7748135}
+    _BoneRight: {x: -0.0000010125, y: -0.7696255, z: -0.627957}
+    _ToBoneForward: {x: -0.6387843, y: 0.30323407, z: 0.6387876, w: -0.30323946}
+    _IsDirty: 0
+    _Length: 0.051906306
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 9
+    SerializationChildIndexes: 17000000
+    _ToBoneForwardInv: {x: 0.6387843, y: -0.30323407, z: -0.6387876, w: -0.30323946}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit52
+    _Transform: {fileID: 4378321392328660}
+    _BindRotation: {x: 0.01261571, y: 0.011408082, z: 0.33975095, w: 0.9403617}
+    _BindPosition: {x: -5.1906185, y: 0, z: 0}
+    _BindMatrix:
+      e00: 0.76887375
+      e01: 0.63926166
+      e02: -0.0128829405
+      e03: 3.9909384
+      e10: -0.6386941
+      e11: 0.7688256
+      e12: 0.031478573
+      e13: -3.315209
+      e20: 0.030027833
+      e21: -0.015974758
+      e22: 0.99942124
+      e23: 0.15584238
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9999999, y: 0.000007019435, z: -0.000007990773}
+    _BoneUp: {x: -0.000010277661, y: -0.4443543, z: 0.89585114}
+    _BoneRight: {x: -0.0000023706093, y: -0.7757475, z: -0.38478127}
+    _ToBoneForward: {x: 0.60090756, y: -0.3727118, z: -0.60090536, w: 0.3727046}
+    _IsDirty: 0
+    _Length: 0.018421995
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 22
+    SerializationChildIndexes: 18000000
+    _ToBoneForwardInv: {x: -0.60090756, y: 0.3727118, z: 0.60090536, w: 0.3727046}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLArmDigit53
+    _Transform: {fileID: 4011241668258466}
+    _BindRotation: {x: -0.004033902, y: -0.0021987362, z: 0.34749982, w: 0.9376688}
+    _BindPosition: {x: -1.8422089, y: -0.0000019073486, z: 0}
+    _BindMatrix:
+      e00: 0.7584707
+      e01: 0.65169054
+      e02: 0.0013198903
+      e03: 1.3972582
+      e10: -0.6516695
+      e11: 0.7584642
+      e12: -0.009093212
+      e13: -1.2005054
+      e20: -0.0069268253
+      e21: 0.006036704
+      e22: 0.9999576
+      e23: -0.012787429
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9999999, y: 0.000007019435, z: -0.000007990773}
+    _BoneUp: {x: -0.000007741716, y: 0.034791935, z: 0.99939454}
+    _BoneRight: {x: -0.000005669212, y: -0.7768578, z: 0.02704476}
+    _ToBoneForward: {x: 0.4912252, y: -0.5086274, z: -0.49122486, w: 0.50861984}
+    _IsDirty: 0
+    _Length: 0.003684399
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 23
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: -0.4912252, y: 0.5086274, z: 0.49122486, w: 0.50861984}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmCollarbone
+    _Transform: {fileID: 4607127175997120}
+    _BindRotation: {x: -0.2781937, y: -0.62915766, z: 0.3003823, w: 0.6607113}
+    _BindPosition: {x: -23.218002, y: 16.86267, z: -5.3293447}
+    _BindMatrix:
+      e00: 0.027862241
+      e01: 0.74698704
+      e02: 0.66425407
+      e03: -8.409254
+      e10: -0.046876557
+      e11: 0.6647575
+      e12: -0.7455872
+      e13: -16.271458
+      e20: -0.99851197
+      e21: -0.010364203
+      e22: 0.053537782
+      e23: -22.723349
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: -0.00000023332612, z: 0.0000011680833}
+    _BoneUp: {x: 0.0000011558562, y: 0.046894707, z: 0.9988998}
+    _BoneRight: {x: 0.0000002877346, y: -0.9985121, z: 0.0468765}
+    _ToBoneForward: {x: 0.48813537, y: -0.511589, z: -0.4881358, w: 0.5115897}
+    _IsDirty: 0
+    _Length: 0.2558791
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 4
+    SerializationChildIndexes: 1a000000
+    _ToBoneForwardInv: {x: -0.48813537, y: 0.511589, z: 0.4881358, w: 0.5115897}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArm1
+    _Transform: {fileID: 4788266984230566}
+    _BindRotation: {x: -0.4373433, y: -0.27301508, z: -0.36945865, w: 0.7731067}
+    _BindPosition: {x: -25.587908, y: -0.0000019073486, z: 0.000015258789}
+    _BindMatrix:
+      e00: 0.57792556
+      e01: -0.33245894
+      e02: 0.74529946
+      e03: 14.787912
+      e10: 0.8100644
+      e11: 0.34446222
+      e12: -0.4744905
+      e13: 20.72785
+      e20: -0.098979264
+      e21: 0.8779628
+      e22: 0.468388
+      e23: -2.5326793
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: -0.0000006703519, z: 0.00000082360134}
+    _BoneUp: {x: 0.000001059284, y: -0.6843802, z: 0.7291254}
+    _BoneRight: {x: -0.000000052545058, y: -0.51160455, z: -0.48020822}
+    _ToBoneForward: {x: -0.6489182, y: 0.28089994, z: 0.6489185, w: -0.28090063}
+    _IsDirty: 0
+    _Length: 0.23890196
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 25
+    SerializationChildIndexes: 1b000000
+    _ToBoneForwardInv: {x: 0.6489182, y: -0.28089994, z: -0.6489185, w: -0.28090063}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArm21
+    _Transform: {fileID: 4254899994583778}
+    _BindRotation: {x: -0.005131117, y: 0.0069677164, z: -0.79179615, w: 0.61072415}
+    _BindPosition: {x: -23.890198, y: 0, z: 0}
+    _BindMatrix:
+      e00: -0.25398102
+      e01: -0.96721596
+      e02: -0.0003849088
+      e03: -6.0676546
+      e10: 0.9670671
+      e11: -0.25393516
+      e12: -0.017301446
+      e13: 23.103415
+      e20: 0.016636243
+      e21: -0.004766769
+      e22: 0.99984425
+      e23: 0.39745778
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.99999994, y: -0.000002593645, z: -0.0000018236589}
+    _BoneUp: {x: -0.0000031689085, y: 0.83639574, z: 0.548126}
+    _BoneRight: {x: -0.00000009940949, y: -0.52566904, z: 0.80212826}
+    _ToBoneForward: {x: 0.2022412, y: -0.6775688, z: -0.20223905, w: 0.677568}
+    _IsDirty: 0
+    _Length: 0.196201
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 26
+    SerializationChildIndexes: 1c000000
+    _ToBoneForwardInv: {x: -0.2022412, y: 0.6775688, z: 0.20223905, w: 0.677568}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArm22
+    _Transform: {fileID: 4572767981932768}
+    _BindRotation: {x: 0.09122547, y: -0, z: -0, w: 0.9958303}
+    _BindPosition: {x: -19.620201, y: 0, z: 0}
+    _BindMatrix:
+      e00: 1.0000001
+      e01: 0.000000046617153
+      e02: 0.0000002068852
+      e03: 19.620205
+      e10: 0.00000004659757
+      e11: 0.98335606
+      e12: 0.1816904
+      e13: 0.000010089852
+      e20: 0.000000252285
+      e21: -0.18169014
+      e22: 0.98335624
+      e23: 0.000011831804
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.0000013014508, z: 0.0000005913821}
+    _BoneUp: {x: 0.0000014289079, y: 0.9220637, z: 0.3870382}
+    _BoneRight: {x: 0.000000039877293, y: -0.3711816, z: 0.8842876}
+    _ToBoneForward: {x: 0.13958488, y: -0.6931925, z: -0.13958588, w: 0.69319266}
+    _IsDirty: 0
+    _Length: 0.19620082
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 27
+    SerializationChildIndexes: 1d000000
+    _ToBoneForwardInv: {x: -0.13958488, y: 0.6931925, z: 0.13958588, w: 0.69319266}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmPalm
+    _Transform: {fileID: 4645294599161994}
+    _BindRotation: {x: 0.7207955, y: -0.20002162, z: 0.28401065, w: 0.5998193}
+    _BindPosition: {x: -19.620205, y: 0.0000076293945, z: 0.0000076293945}
+    _BindMatrix:
+      e00: 0.75864786
+      e01: 0.052360024
+      e02: 0.64937186
+      e03: 14.884819
+      e10: -0.6290729
+      e11: -0.20042071
+      e12: 0.75109357
+      e13: -12.34254
+      e20: 0.1694726
+      e21: -0.9783052
+      e22: -0.11910903
+      e23: 3.3251026
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9985346, y: -0.015125179, z: -0.051961653}
+    _BoneUp: {x: 0.053155944, y: -0.09385295, z: -0.99416596}
+    _BoneRight: {x: -0.009044338, y: 0.88614327, z: -0.08413879}
+    _ToBoneForward: {x: 0.53283536, y: 0.49200323, z: -0.51284784, w: -0.45935422}
+    _IsDirty: 0
+    _Length: 0.09001739
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 28
+    SerializationChildIndexes: 1e0000002100000024000000270000002a000000
+    _ToBoneForwardInv: {x: -0.53283536, y: -0.49200323, z: 0.51284784, w: -0.45935422}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit11
+    _Transform: {fileID: 4472352437519070}
+    _BindRotation: {x: -0.5875362, y: -0.3650456, z: 0.025097873, w: 0.72174305}
+    _BindPosition: {x: -1.3189087, y: -0.837677, z: -3.456009}
+    _BindMatrix:
+      e00: 0.7322043
+      e01: 0.4651714
+      e02: 0.49743333
+      e03: 3.0745084
+      e10: 0.39273617
+      e11: 0.30834994
+      e12: -0.8664449
+      e13: -2.218158
+      e20: -0.5564325
+      e21: 0.8297802
+      e22: 0.043086037
+      e23: 0.110113285
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.0000030299966, z: 0.000007270614}
+    _BoneUp: {x: 0.000000023076254, y: 0.9241741, z: -0.3819716}
+    _BoneRight: {x: 0.000007840049, y: 0.38019493, z: 0.91987544}
+    _ToBoneForward: {x: -0.1376831, y: -0.69357026, z: 0.13768199, w: 0.69357574}
+    _IsDirty: 0
+    _Length: 0.054445926
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 29
+    SerializationChildIndexes: 1f000000
+    _ToBoneForwardInv: {x: 0.1376831, y: 0.69357026, z: -0.13768199, w: 0.69357574}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit12
+    _Transform: {fileID: 4823754656349254}
+    _BindRotation: {x: 0.00000009010865, y: 0.000000009810413, z: 0.27018753, w: 0.9628077}
+    _BindPosition: {x: -5.4444094, y: 0, z: -0.0000038146973}
+    _BindMatrix:
+      e00: 0.853971
+      e01: 0.52026117
+      e02: 0.00000005769408
+      e03: 4.6493654
+      e10: -0.5202832
+      e11: 0.8540072
+      e12: 0.00000006727256
+      e13: -2.8326442
+      e20: 0.00000018778489
+      e21: -0.00000025214334
+      e22: 1.0000212
+      e23: 0.000001656297
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.00002073485, z: 0.000016704163}
+    _BoneUp: {x: 0.00001195646, y: 0.9102339, z: -0.4140945}
+    _BoneRight: {x: 0.000021842836, y: 0.3801876, z: 0.83570206}
+    _ToBoneForward: {x: -0.14981087, y: -0.69104874, z: 0.14979905, w: 0.6910634}
+    _IsDirty: 0
+    _Length: 0.054702293
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 30
+    SerializationChildIndexes: 20000000
+    _ToBoneForwardInv: {x: 0.14981087, y: 0.69104874, z: -0.14979905, w: 0.6910634}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit13
+    _Transform: {fileID: 4129361246611082}
+    _BindRotation: {x: 0.00000006238249, y: -0.000000084907605, z: 0.4721532, w: 0.8815166}
+    _BindPosition: {x: -5.46994, y: 0, z: 0.0000038146973}
+    _BindMatrix:
+      e00: 0.55410814
+      e01: 0.83236957
+      e02: 0.000000091506294
+      e03: 3.0309408
+      e10: -0.83245826
+      e11: 0.5541669
+      e12: -0.00000009824686
+      e13: -4.5534887
+      e20: 0.00000001741412
+      e21: -0.00000027947215
+      e22: 1.0000212
+      e23: -0.0000027241388
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.00002073485, z: 0.000016704163}
+    _BoneUp: {x: 0.000015977961, y: -0.03454253, z: 0.99940324}
+    _BoneRight: {x: -0.000019636665, y: -0.92138153, z: -0.031845853}
+    _ToBoneForward: {x: -0.50855297, y: 0.49128965, z: 0.5085717, w: -0.4912873}
+    _IsDirty: 0
+    _Length: 0.010940459
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 31
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.50855297, y: -0.49128965, z: -0.5085717, w: -0.4912873}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit21
+    _Transform: {fileID: 4302600553557896}
+    _BindRotation: {x: -0.004882999, y: -0.023110896, z: 0.20241228, w: 0.97901547}
+    _BindPosition: {x: -11.360809, y: -0.23321724, z: -4.0080795}
+    _BindMatrix:
+      e00: 0.91696817
+      e01: 0.39654577
+      e02: 0.043273985
+      e03: 10.683421
+      e10: -0.3961145
+      e11: 0.9180358
+      e12: -0.018917434
+      e13: -4.3619027
+      e20: -0.047228586
+      e21: 0.0002053134
+      e22: 0.9988828
+      e23: 3.467108
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.00000642272, z: -0.0000067426845}
+    _BoneUp: {x: 0.000004715193, y: -0.27515256, z: -0.96140057}
+    _BoneRight: {x: 0.0000073843016, y: 0.8840855, z: -0.253025}
+    _ToBoneForward: {x: 0.56461656, y: 0.42568946, z: -0.56461, w: -0.42569023}
+    _IsDirty: 0
+    _Length: 0.051610798
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 29
+    SerializationChildIndexes: 22000000
+    _ToBoneForwardInv: {x: -0.56461656, y: -0.42568946, z: 0.56461, w: -0.42569023}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit22
+    _Transform: {fileID: 4710271356714624}
+    _BindRotation: {x: -0.00004315624, y: 0.00012348614, z: 0.23350626, w: 0.9723553}
+    _BindPosition: {x: -5.160904, y: 0.0000019073486, z: -0.0000076293945}
+    _BindMatrix:
+      e00: 0.89091915
+      e01: 0.45408648
+      e02: -0.00026041968
+      e03: 4.5979395
+      e10: -0.45411915
+      e11: 0.89098305
+      e12: -0.00002623655
+      e13: -2.3436532
+      e20: 0.00021983022
+      e21: 0.00014165865
+      e22: 0.9999988
+      e23: 0.0011546332
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.000038477134, z: 0.0000025762063}
+    _BoneUp: {x: -0.000018330495, y: -0.41549852, z: -0.9095938}
+    _BoneRight: {x: 0.00003297466, y: 0.8840313, z: -0.40382168}
+    _ToBoneForward: {x: 0.5948802, y: 0.38225156, z: -0.59486705, w: -0.38227546}
+    _IsDirty: 0
+    _Length: 0.028333854
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 33
+    SerializationChildIndexes: 23000000
+    _ToBoneForwardInv: {x: -0.5948802, y: -0.38225156, z: 0.59486705, w: -0.38227546}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit23
+    _Transform: {fileID: 4855912957535368}
+    _BindRotation: {x: 0.000017696328, y: -0.000117012605, z: 0.34555945, w: 0.9383969}
+    _BindPosition: {x: -2.8332596, y: 0, z: 0}
+    _BindMatrix:
+      e00: 0.7611259
+      e01: 0.6484997
+      e02: 0.0002318729
+      e03: 2.15646
+      e10: -0.6485899
+      e11: 0.76123095
+      e12: -0.00004753693
+      e13: -1.8376256
+      e20: -0.00020732985
+      e21: -0.000113913564
+      e22: 0.99999905
+      e23: -0.0005886014
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.000038477134, z: 0.0000025762063}
+    _BoneUp: {x: -0.000020046293, y: -0.46159798, z: -0.8870892}
+    _BoneRight: {x: 0.000032830067, y: 0.8840353, z: -0.46000886}
+    _ToBoneForward: {x: 0.60448915, y: 0.3668673, z: -0.6044765, w: -0.3668915}
+    _IsDirty: 0
+    _Length: 0.005666771
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 34
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: -0.60448915, y: -0.3668673, z: 0.6044765, w: -0.3668915}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit31
+    _Transform: {fileID: 4222334030289854}
+    _BindRotation: {x: 0.000000070228076, y: -0.00000032330934, z: 0.34236285, w: 0.93956786}
+    _BindPosition: {x: -10.990654, y: 0.32638168, z: -0.7722473}
+    _BindMatrix:
+      e00: 0.7655499
+      e01: 0.6433251
+      e02: 0.00000063571105
+      e03: 8.203927
+      e10: -0.6433689
+      e11: 0.7656024
+      e12: -0.000000017382089
+      e13: -7.3209176
+      e20: -0.00000056310796
+      e21: -0.0000002769102
+      e22: 0.9999992
+      e23: 0.77226007
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: 0.00001598722, z: 0.0000040339132}
+    _BoneUp: {x: -0.000010166808, y: -0.4052614, z: -0.91420084}
+    _BoneRight: {x: 0.0000122296815, y: 0.8613058, z: -0.38181323}
+    _ToBoneForward: {x: 0.5927205, y: 0.38559097, z: -0.5927167, w: -0.385602}
+    _IsDirty: 0
+    _Length: 0.05528827
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 29
+    SerializationChildIndexes: 25000000
+    _ToBoneForwardInv: {x: -0.5927205, y: -0.38559097, z: 0.5927167, w: -0.385602}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit32
+    _Transform: {fileID: 4918469275500900}
+    _BindRotation: {x: -0.00000011536877, y: 0.00000017379179, z: 0.5530649, w: 0.8331382}
+    _BindPosition: {x: -5.528618, y: -0.0000019073486, z: 0}
+    _BindMatrix:
+      e00: 0.3882066
+      e01: 0.9214831
+      e02: -0.00000034811413
+      e03: 2.1462512
+      e10: -0.92163754
+      e11: 0.38827148
+      e12: 4.5602944e-10
+      e13: -5.0953674
+      e20: 0.0000001844236
+      e21: 0.0000005423669
+      e22: 0.9999996
+      e23: 0.000015475965
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000004, y: 0.00002078643, z: 0.0000007063884}
+    _BoneUp: {x: -0.000010369155, y: -0.46882564, z: -0.88329077}
+    _BoneRight: {x: 0.000017580574, y: 0.8613076, z: -0.4571576}
+    _ToBoneForward: {x: 0.60597914, y: 0.36440215, z: -0.605972, w: -0.36441502}
+    _IsDirty: 0
+    _Length: 0.035120353
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 36
+    SerializationChildIndexes: 26000000
+    _ToBoneForwardInv: {x: -0.60597914, y: -0.36440215, z: 0.605972, w: -0.36441502}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit33
+    _Transform: {fileID: 4804956106418196}
+    _BindRotation: {x: 0.00000012183064, y: -0.00000013421152, z: 0.54122615, w: 0.84087706}
+    _BindPosition: {x: -3.5119076, y: 0.0000038146973, z: 0.0000076293945}
+    _BindMatrix:
+      e00: 0.41410086
+      e01: 0.91010493
+      e02: 0.00000045895007
+      e03: 1.4542917
+      e10: -0.9103163
+      e11: 0.41419742
+      e12: -0.000000008847378
+      e13: -3.1969469
+      e20: -0.00000006817144
+      e21: -0.0000002805453
+      e22: 0.99999964
+      e23: 0.000012447905
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000004, y: 0.00002078643, z: 0.0000007063884}
+    _BoneUp: {x: -0.00000040522164, y: 0.014485053, z: -0.9998951}
+    _BoneRight: {x: 0.000017912318, y: 0.86130756, z: 0.012477394}
+    _ToBoneForward: {x: -0.49637058, y: -0.50360286, z: 0.49636048, w: 0.5036136}
+    _IsDirty: 0
+    _Length: 0.0070240707
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 37
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.49637058, y: 0.50360286, z: -0.49636048, w: 0.5036136}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit41
+    _Transform: {fileID: 4538627113477068}
+    _BindRotation: {x: 0.020156011, y: 0.035938866, z: 0.4887579, w: 0.87144583}
+    _BindPosition: {x: -10.718079, y: 0.4845829, z: 1.8627472}
+    _BindMatrix:
+      e00: 0.51962554
+      e01: 0.8532635
+      e02: -0.04293284
+      e03: 5.2358847
+      e10: -0.8504428
+      e11: 0.521443
+      e12: 0.07026386
+      e13: -9.4986725
+      e20: 0.08234027
+      e21: 0.0000011495086
+      e22: 0.9966035
+      e23: -0.97388566
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: 0.000019678526, z: 0.000003051797}
+    _BoneUp: {x: -0.000013239105, y: -0.5424902, z: -0.8400621}
+    _BoneRight: {x: 0.000014467664, y: 0.8170243, z: -0.527613}
+    _ToBoneForward: {x: 0.62098753, y: 0.33819073, z: -0.62098277, w: -0.338204}
+    _IsDirty: 0
+    _Length: 0.058002587
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 29
+    SerializationChildIndexes: 28000000
+    _ToBoneForwardInv: {x: -0.62098753, y: -0.33819073, z: 0.62098277, w: -0.338204}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit42
+    _Transform: {fileID: 4900385936412888}
+    _BindRotation: {x: 0.000000093210716, y: -0.00000011719511, z: 0.54149306, w: 0.8407052}
+    _BindPosition: {x: -5.8000374, y: -0.0000038146973, z: -0.0000076293945}
+    _BindMatrix:
+      e00: 0.41353694
+      e01: 0.91039824
+      e02: 0.00000036564896
+      e03: 2.3985298
+      e10: -0.9105485
+      e11: 0.41360527
+      e12: 0.000000042236636
+      e13: -5.2812095
+      e20: -0.00000011329034
+      e21: -0.00000021899564
+      e22: 0.9999991
+      e23: 0.000010163017
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: 0.000017782666, z: -0.000008639804}
+    _BoneUp: {x: -0.00000063585304, y: -0.4657088, z: -0.884938}
+    _BoneRight: {x: 0.000018243649, y: 0.8170215, z: -0.42996696}
+    _ToBoneForward: {x: 0.60533816, y: 0.36547235, z: -0.6053265, w: -0.36547995}
+    _IsDirty: 0
+    _Length: 0.028444365
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 39
+    SerializationChildIndexes: 29000000
+    _ToBoneForwardInv: {x: -0.60533816, y: -0.36547235, z: 0.6053265, w: -0.36547995}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit43
+    _Transform: {fileID: 4631734647394294}
+    _BindRotation: {x: -0.00000017787414, y: -0.000000087028724, z: 0.5058272, w: 0.86263484}
+    _BindPosition: {x: -2.8443375, y: 0.0000076293945, z: -0.0000076293945}
+    _BindMatrix:
+      e00: 0.4882255
+      e01: 0.8725952
+      e02: -0.000000049316384
+      e03: 1.3886735
+      e10: -0.8727841
+      e11: 0.4883315
+      e12: -0.0000003429402
+      e13: -2.4824905
+      e20: -0.00000030691555
+      e21: 0.00000031339172
+      e22: 0.99999857
+      e23: 0.000008219382
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: 0.000017782666, z: -0.000008639804}
+    _BoneUp: {x: 0.000011236262, y: 0.15162836, z: -0.9884376}
+    _BoneRight: {x: 0.000013445944, y: 0.81702006, z: 0.12533256}
+    _ToBoneForward: {x: -0.46054223, y: -0.536568, z: 0.4605287, w: 0.5365715}
+    _IsDirty: 0
+    _Length: 0.005688873
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 40
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.46054223, y: 0.536568, z: -0.4605287, w: 0.5365715}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit51
+    _Transform: {fileID: 4588884480487220}
+    _BindRotation: {x: 0.03232204, y: 0.08346358, z: 0.52410144, w: 0.8469397}
+    _BindPosition: {x: -10.553856, y: -0.4205532, z: 4.035202}
+    _BindMatrix:
+      e00: 0.43668306
+      e01: 0.893119
+      e02: -0.10749225
+      e03: 5.4180455
+      e10: -0.88241225
+      e11: 0.44856757
+      e12: 0.14224343
+      e13: -9.698169
+      e20: 0.17525709
+      e21: 0.03273717
+      e22: 0.9839771
+      e23: -2.107151
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: 0.00002416728, z: 0.000010080494}
+    _BoneUp: {x: -0.000022871716, y: -0.6186945, z: -0.7856317}
+    _BoneRight: {x: 0.00001236612, y: 0.7619876, z: -0.6000745}
+    _ToBoneForward: {x: 0.63614017, y: 0.30874047, z: -0.6361391, w: -0.30875894}
+    _IsDirty: 0
+    _Length: 0.051908173
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 29
+    SerializationChildIndexes: 2b000000
+    _ToBoneForwardInv: {x: -0.63614017, y: -0.30874047, z: 0.6361391, w: -0.30875894}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit52
+    _Transform: {fileID: 4223465583014042}
+    _BindRotation: {x: -0.017970879, y: -0.011987849, z: 0.47374398, w: 0.8803976}
+    _BindPosition: {x: -5.1906204, y: 0, z: 0.0000076293945}
+    _BindMatrix:
+      e00: 0.55080694
+      e01: 0.8345381
+      e02: 0.0040807435
+      e03: 2.8590372
+      e10: -0.83379716
+      e11: 0.55052817
+      e12: -0.043004483
+      e13: -4.3279033
+      e20: -0.038135268
+      e21: 0.020284617
+      e22: 0.9990658
+      e23: -0.19793032
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000002, y: 0.000024332941, z: -0.0000074195027}
+    _BoneUp: {x: -0.0000068590125, y: -0.53876096, z: -0.84245867}
+    _BoneRight: {x: 0.00002276015, y: 0.7827334, z: -0.500566}
+    _ToBoneForward: {x: 0.6202405, y: 0.33956665, z: -0.62022763, w: -0.33957922}
+    _IsDirty: 0
+    _Length: 0.018422838
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 42
+    SerializationChildIndexes: 2c000000
+    _ToBoneForwardInv: {x: -0.6202405, y: -0.33956665, z: 0.62022763, w: -0.33957922}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRArmDigit53
+    _Transform: {fileID: 4933710480602252}
+    _BindRotation: {x: 0.000000010071427, y: -0.000000045459892, z: 0.48106828, w: 0.8766831}
+    _BindPosition: {x: -1.8422127, y: -0.0000076293945, z: 0}
+    _BindMatrix:
+      e00: 0.5370926
+      e01: 0.84340423
+      e02: 0.000000059819996
+      e03: 0.9894547
+      e10: -0.8435763
+      e11: 0.5372024
+      e12: -0.000000056288116
+      e13: -1.5540376
+      e20: -0.000000010382555
+      e21: -8.2796436e-10
+      e22: 0.99999857
+      e23: 0.000005719261
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000002, y: 0.000024332941, z: -0.0000074195027}
+    _BoneUp: {x: 0.000008744687, y: 0.054920807, z: -0.9984907}
+    _BoneRight: {x: 0.00001872672, y: 0.7827314, z: 0.04305322}
+    _ToBoneForward: {x: -0.48608395, y: -0.51354265, z: 0.48606786, w: 0.5135507}
+    _IsDirty: 0
+    _Length: 0.0036845678
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 43
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.48608395, y: 0.51354265, z: -0.48606786, w: 0.5135507}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigSpine
+    _Transform: {fileID: 4539822120874666}
+    _BindRotation: {x: -0.00000001709854, y: 0.000000009867367, z: -0.24192192, w: 0.9702957}
+    _BindPosition: {x: -33.766144, y: 0.000005722046, z: 8.6686214e-13}
+    _BindMatrix:
+      e00: 0.88294756
+      e01: -0.46947157
+      e02: -0.000000009246422
+      e03: 29.813725
+      e10: 0.4694716
+      e11: 0.8829474
+      e12: -0.000000043560682
+      e13: 15.852237
+      e20: 0.00000002672689
+      e21: 0.000000023659345
+      e22: 1
+      e23: 0.0000010144784
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: 0.0000020125651, z: -0.00000004030526}
+    _BoneUp: {x: -0.000002012565, y: -1, z: 0.000000012322455}
+    _BoneRight: {x: 0.000000018922238, y: -0.000000005785105, z: -0.46947354}
+    _ToBoneForward: {x: 0.7071068, y: -0.00000071590586, z: -0.7071068, w: -0.0000007071925}
+    _IsDirty: 0
+    _Length: 0.08958384
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 4
+    SerializationChildIndexes: 2e000000
+    _ToBoneForwardInv: {x: -0.7071068, y: 0.00000071590586, z: 0.7071068, w: -0.0000007071925}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigHub003
+    _Transform: {fileID: 4874821108915726}
+    _BindRotation: {x: 0.000000013771397, y: 0.000000008125275, z: -0.000000029802322,
+      w: 1}
+    _BindPosition: {x: -8.958405, y: 0.0000076293945, z: 0.0000002430064}
+    _BindMatrix:
+      e00: 1
+      e01: -0.000000018368361
+      e02: -0.0000000133853675
+      e03: 8.958393
+      e10: 0.00000013678044
+      e11: 0.9999998
+      e12: 0.000000022699261
+      e13: -0.000016475802
+      e20: 0.000000017859623
+      e21: -0.000000034008092
+      e22: 1
+      e23: 0.00000013189003
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: 0.0000020125651, z: -0.00000004030526}
+    _BoneUp: {x: -0.000002012565, y: -1, z: 0.00000007580276}
+    _BoneRight: {x: 0.000000018922178, y: -0.00000003558743, z: -0.46947354}
+    _ToBoneForward: {x: 0.7071068, y: -0.0000007383495, z: -0.7071068, w: -0.00000068474884}
+    _IsDirty: 0
+    _Length: 0.017916767
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 45
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: -0.7071068, y: 0.0000007383495, z: 0.7071068, w: -0.00000068474884}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: Object001
+    _Transform: {fileID: 4452765280244732}
+    _BindRotation: {x: 0.28993237, y: 0.63521516, z: 0.27944613, w: 0.65905297}
+    _BindPosition: {x: 4.2664185, y: 14.102766, z: -7.81597e-14}
+    _BindMatrix:
+      e00: -0.016027978
+      e01: -0.3206533
+      e02: 0.29391104
+      e03: 4.590481
+      e10: 0.00000031144444
+      e11: -0.29411024
+      e12: -0.32087076
+      e13: 4.147767
+      e20: -0.43497375
+      e21: 0.0118152695
+      e22: -0.010830292
+      e23: 1.6891594
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.84614885, y: 0.5329467, z: 0}
+    _BoneUp: {x: -0.010463731, y: -0.016613055, z: -0.9998072}
+    _BoneRight: {x: 0.53258526, y: 0.84557503, z: -0.019624198}
+    _ToBoneForward: {x: -0.622386, y: -0.3356125, z: 0.34776756, w: 0.61567664}
+    _IsDirty: 0
+    _Length: 0.044871386
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 4
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.622386, y: 0.3356125, z: -0.34776756, w: 0.61567664}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLLeg1
+    _Transform: {fileID: 4151404882321764}
+    _BindRotation: {x: -0.06518926, y: 0.996385, z: 0.04904829, w: 0.023698745}
+    _BindPosition: {x: -2.4405441, y: -1.1242836, z: 11.199688}
+    _BindMatrix:
+      e00: -0.99037886
+      e01: -0.1275826
+      e02: -0.053621065
+      e03: -1.959959
+      e10: -0.13223179
+      e11: 0.98668784
+      e12: 0.09465202
+      e13: -0.27347228
+      e20: 0.04083133
+      e21: 0.10083183
+      e22: -0.9940658
+      e23: 11.346241
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.72634625, y: 0.60079503, z: 0.33386588}
+    _BoneUp: {x: 0.68131316, y: 0.6934693, z: 0.23433472}
+    _BoneRight: {x: 0.06867894, y: -0.30099562, z: 0.69106}
+    _ToBoneForward: {x: -0.12590021, y: -0.5632195, z: -0.37069464, w: 0.72768015}
+    _IsDirty: 0
+    _Length: 0.13465512
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 0
+    SerializationChildIndexes: 3100000034000000
+    _ToBoneForwardInv: {x: 0.12590021, y: 0.5632195, z: 0.37069464, w: 0.72768015}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLLeg2
+    _Transform: {fileID: 4902230592083152}
+    _BindRotation: {x: -0.027246216, y: 0.010045699, z: 0.13823093, w: 0.98997426}
+    _BindPosition: {x: -46.22062, y: 0.00020503998, z: 0.00013542175}
+    _BindMatrix:
+      e00: 0.96157926
+      e01: 0.2731417
+      e02: -0.027422408
+      e03: 44.444733
+      e10: -0.27423835
+      e11: 0.9603024
+      e12: -0.051168993
+      e13: -12.675653
+      e20: 0.0123574305
+      e21: 0.056723412
+      e22: 0.9983144
+      e23: 0.57102156
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: -0.0000006572314, z: 0.000000084857675}
+    _BoneUp: {x: -0.0000006358172, y: 0.9876481, z: 0.15668786}
+    _BoneRight: {x: 0.00000018484124, y: -0.15505339, z: 0.9773457}
+    _ToBoneForward: {x: 0.05556962, y: -0.7049199, z: -0.055569157, w: 0.70491993}
+    _IsDirty: 0
+    _Length: 0.4637567
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 48
+    SerializationChildIndexes: 32000000
+    _ToBoneForwardInv: {x: -0.05556962, y: 0.7049199, z: 0.055569157, w: 0.70491993}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLLegAnkle
+    _Transform: {fileID: 4624186231152012}
+    _BindRotation: {x: 0.029755054, y: -0.030913023, z: -0.4939424, w: 0.8684354}
+    _BindPosition: {x: -46.37555, y: 0.00000047683716, z: 0}
+    _BindMatrix:
+      e00: 0.5101292
+      e01: -0.85975146
+      e02: 0.024297299
+      e03: 23.657505
+      e10: 0.85607713
+      e11: 0.5102725
+      e12: 0.08221945
+      e13: 39.70102
+      e20: -0.08308651
+      e21: -0.021142194
+      e22: 0.99631816
+      e23: -3.8531852
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000002, y: -0.0000012556945, z: 0.000000011292641}
+    _BoneUp: {x: -0.0000012467289, y: 0.9917042, z: -0.12854037}
+    _BoneRight: {x: -0.00000011703499, y: 0.1001523, z: 0.7726869}
+    _ToBoneForward: {x: -0.045539994, y: -0.7056388, z: 0.04554088, w: 0.7056388}
+    _IsDirty: 0
+    _Length: 0.19474992
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 49
+    SerializationChildIndexes: 33000000
+    _ToBoneForwardInv: {x: 0.045539994, y: 0.7056388, z: -0.04554088, w: 0.7056388}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigLLegDigit11
+    _Transform: {fileID: 4596668608902200}
+    _BindRotation: {x: -0.047155578, y: 0.017040288, z: -0.33381724, w: 0.94130343}
+    _BindPosition: {x: -19.474957, y: -0.00000047683716, z: 0}
+    _BindMatrix:
+      e00: 0.7765505
+      e01: -0.630053
+      e02: -0.00059746933
+      e03: 15.123284
+      e10: 0.6268407
+      e11: 0.77268624
+      e12: -0.10015224
+      e13: 12.207669
+      e20: 0.06356289
+      e21: 0.07739875
+      e22: 0.99497217
+      e23: 1.2378824
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000002, y: -0.0000012556945, z: 0.000000011292641}
+    _BoneUp: {x: -0.0000012556943, y: 1, z: -0.00000013876459}
+    _BoneRight: {x: 0.0000000112924665, y: 0.00000013876465, z: 1.0000002}
+    _ToBoneForward: {x: 0.00000039489427, y: -0.7071068, z: 0.00000049301565, w: 0.7071068}
+    _IsDirty: 0
+    _Length: 0.038949985
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 50
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: -0.00000039489427, y: 0.7071068, z: -0.00000049301565,
+      w: 0.7071068}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: Object005
+    _Transform: {fileID: 4041312547702472}
+    _BindRotation: {x: -0.18255688, y: -0.6470102, z: 0.32199225, w: 0.6666122}
+    _BindPosition: {x: 26.659378, y: 16.179802, z: 8.991211}
+    _BindMatrix:
+      e00: 0.019414023
+      e01: -0.28968
+      e02: -0.3242951
+      e03: 7.0852046
+      e10: 0.08403151
+      e11: -0.31600145
+      e12: 0.28730226
+      e13: 0.28941685
+      e20: 0.42663774
+      e21: 0.07542108
+      e22: -0.041829895
+      e23: -12.218094
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.72634625, y: 0.60079503, z: 0.33386588}
+    _BoneUp: {x: -0.28737095, y: 0.17580016, z: -0.9415478}
+    _BoneRight: {x: 0.5765543, y: 0.72011065, z: -0.041516107}
+    _ToBoneForward: {x: -0.5278979, y: -0.23321842, z: 0.3652721, w: 0.7304172}
+    _IsDirty: 0
+    _Length: 0.026931023
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 48
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.5278979, y: 0.23321842, z: -0.3652721, w: 0.7304172}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRLeg1
+    _Transform: {fileID: 4073957873833738}
+    _BindRotation: {x: -0.06519464, y: 0.99638367, z: -0.04904252, w: -0.023751738}
+    _BindPosition: {x: -2.4405441, y: -1.1242845, z: -11.199686}
+    _BindMatrix:
+      e00: -0.99037015
+      e01: -0.1275879
+      e02: 0.053726252
+      e03: -1.9587649
+      e10: -0.13224764
+      e11: 0.9866904
+      e12: -0.09463352
+      e13: -0.27329987
+      e20: -0.04093706
+      e21: -0.10082727
+      e22: -0.9940613
+      e23: -11.346441
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.948686, y: 0.30634683, z: 0.078401245}
+    _BoneUp: {x: 0.31618223, y: 0.91512245, z: 0.2501594}
+    _BoneRight: {x: -0.002172592, y: -0.11648278, z: 0.42885828}
+    _ToBoneForward: {x: -0.019921929, y: -0.6785297, z: -0.20504123, w: 0.7050948}
+    _IsDirty: 0
+    _Length: 0.15173626
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 0
+    SerializationChildIndexes: 36000000390000003a000000
+    _ToBoneForwardInv: {x: 0.019921929, y: 0.6785297, z: 0.20504123, w: 0.7050948}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRLeg2
+    _Transform: {fileID: 4097455192722092}
+    _BindRotation: {x: 0.026296416, y: -0.010229935, z: 0.1383502, w: 0.98998135}
+    _BindPosition: {x: -46.220623, y: 0.00020503998, z: -0.0001411438}
+    _BindMatrix:
+      e00: 0.96152043
+      e01: 0.27339342
+      e02: 0.02753145
+      e03: 44.44202
+      e10: -0.27446386
+      e11: 0.96032697
+      e12: 0.049234867
+      e13: -12.686081
+      e20: -0.0129786385
+      e21: -0.054896407
+      e22: 0.99840564
+      e23: -0.5997285
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1.0000001, y: 0.00000079185594, z: 0.000000011332799}
+    _BoneUp: {x: 0.0000007805568, y: 0.98794633, z: -0.15479681}
+    _BoneRight: {x: 0.00000013237297, y: 0.1531768, z: 0.9776071}
+    _ToBoneForward: {x: -0.054894883, y: -0.7049727, z: 0.054894328, w: 0.7049728}
+    _IsDirty: 0
+    _Length: 0.4637507
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 53
+    SerializationChildIndexes: 37000000
+    _ToBoneForwardInv: {x: 0.054894883, y: 0.7049727, z: -0.054894328, w: 0.7049728}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRLegAnkle
+    _Transform: {fileID: 4020737056054176}
+    _BindRotation: {x: -0.029051796, y: 0.031144224, z: -0.49391764, w: 0.86846495}
+    _BindPosition: {x: -46.37555, y: 0.00000047683716, z: 0}
+    _BindMatrix:
+      e00: 0.5101577
+      e01: -0.8597214
+      e02: -0.02539729
+      e03: 23.658838
+      e10: 0.8560797
+      e11: 0.5103959
+      e12: -0.08122523
+      e13: 39.70115
+      e20: 0.08279372
+      e21: 0.019695569
+      e22: 0.9963721
+      e23: 3.8396044
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.000009144523, z: 0.0000007823631}
+    _BoneUp: {x: 0.000009169398, y: 0.9917595, z: 0.12811346}
+    _BoneRight: {x: -0.00000030818052, y: -0.09979786, z: 0.7725611}
+    _ToBoneForward: {x: 0.045385312, y: -0.70564854, z: -0.0453918, w: 0.7056486}
+    _IsDirty: 0
+    _Length: 0.19474746
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 54
+    SerializationChildIndexes: 38000000
+    _ToBoneForwardInv: {x: -0.045385312, y: 0.70564854, z: 0.0453918, w: 0.7056486}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: CATRigRLegDigit11
+    _Transform: {fileID: 4314579885788374}
+    _BindRotation: {x: 0.047059562, y: -0.01677949, z: -0.33391976, w: 0.94127655}
+    _BindPosition: {x: -19.474957, y: 0.0000009536743, z: 0}
+    _BindMatrix:
+      e00: 0.7764376
+      e01: -0.6302056
+      e02: 0.00016000596
+      e03: 15.121092
+      e10: 0.6270385
+      e11: 0.7725609
+      e12: 0.09979749
+      e13: 12.2115135
+      e20: -0.06301656
+      e21: -0.077386126
+      e22: 0.9950081
+      e23: -1.2272434
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -1, y: 0.000009144523, z: 0.0000007823631}
+    _BoneUp: {x: 0.000009144522, y: 1, z: -0.00000066245167}
+    _BoneRight: {x: 0.00000078236917, y: 0.0000006624445, z: 1}
+    _ToBoneForward: {x: -0.0000034672873, y: -0.7071065, z: -0.000002998866, w: 0.70710707}
+    _IsDirty: 0
+    _Length: 0.038949493
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 55
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.0000034672873, y: 0.7071065, z: 0.000002998866, w: 0.70710707}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: Object006
+    _Transform: {fileID: 4723127404035316}
+    _BindRotation: {x: -0.2785301, y: -0.7036243, z: 0.34567374, w: 0.5548365}
+    _BindPosition: {x: 26.659584, y: 16.180779, z: -8.988281}
+    _BindMatrix:
+      e00: 0.09974363
+      e01: -0.3375695
+      e02: -0.2560379
+      e03: 0.501674
+      e10: -0.0036459386
+      e11: -0.26371273
+      e12: 0.3462681
+      e13: 7.4766307
+      e20: 0.42367238
+      e21: 0.07720463
+      e22: 0.063258894
+      e23: -11.975567
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.948686, y: 0.30634683, z: 0.078401245}
+    _BoneUp: {x: -0.06772405, y: 0.04534582, z: -0.99667305}
+    _BoneRight: {x: 0.3087002, y: 0.9502773, z: 0.022258732}
+    _ToBoneForward: {x: -0.5443197, y: -0.40560505, z: 0.4254917, w: 0.5984626}
+    _IsDirty: 0
+    _Length: 0.030347252
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 53
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.5443197, y: 0.40560505, z: -0.4254917, w: 0.5984626}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: Pistol_mesh
+    _Transform: {fileID: 4059752449602898}
+    _BindRotation: {x: -0.097022794, y: 0.73533136, z: 0.6707119, w: -0.0044713006}
+    _BindPosition: {x: -23.623985, y: -2.2357903, z: 12.557347}
+    _BindMatrix:
+      e00: -6.8273983
+      e01: -1.0346574
+      e02: -0.85990506
+      e03: -152.80556
+      e10: -0.95117944
+      e11: 0.56688267
+      e12: 6.870003
+      e13: -107.472206
+      e20: -0.95141464
+      e21: 6.8578906
+      e22: -0.69761074
+      e23: 1.6167418
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.948686, y: 0.30634683, z: 0.078401245}
+    _BoneUp: {x: 0.073242106, y: -0.028318841, z: 0.99691206}
+    _BoneRight: {x: -0.30646884, y: -0.9479348, z: -0.004411614}
+    _ToBoneForward: {x: -0.40071702, y: 0.54792815, z: 0.5946305, w: -0.430831}
+    _IsDirty: 0
+    _Length: 0.030347252
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 53
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.40071702, y: -0.54792815, z: -0.5946305, w: -0.430831}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: Object002
+    _Transform: {fileID: 4225319615650312}
+    _BindRotation: {x: 0.28993237, y: 0.63521516, z: 0.27944613, w: 0.65905297}
+    _BindPosition: {x: -29.892372, y: 12.078352, z: -1.1368684e-13}
+    _BindMatrix:
+      e00: -0.016027978
+      e01: -0.3206533
+      e02: 0.29391104
+      e03: 3.3938491
+      e10: 0.00000031144444
+      e11: -0.29411024
+      e12: -0.32087076
+      e13: 3.5523765
+      e20: -0.43497375
+      e21: 0.0118152695
+      e22: -0.010830292
+      e23: -13.145102
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9410598, y: 0.33824036, z: -0.00000035591847}
+    _BoneUp: {x: -0.0042147874, y: -0.011727527, z: -0.99992234}
+    _BoneRight: {x: 0.33801097, y: 0.9404216, z: -0.0124544315}
+    _ToBoneForward: {x: -0.580935, y: -0.40313113, z: 0.4103392, w: 0.5758659}
+    _IsDirty: 0
+    _Length: 0.033493426
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 0
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.580935, y: 0.40313113, z: -0.4103392, w: 0.5758659}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: Object003
+    _Transform: {fileID: 4169138837269808}
+    _BindRotation: {x: 0.28993237, y: 0.63521516, z: 0.27944613, w: 0.65905297}
+    _BindPosition: {x: -29.892372, y: 12.078352, z: -1.1368684e-13}
+    _BindMatrix:
+      e00: -0.016027978
+      e01: -0.3206533
+      e02: 0.29391104
+      e03: 3.3938491
+      e10: 0.00000031144444
+      e11: -0.29411024
+      e12: -0.32087076
+      e13: 3.5523765
+      e20: -0.43497375
+      e21: 0.0118152695
+      e22: -0.010830292
+      e23: -13.145102
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9410598, y: 0.33824036, z: -0.00000035591847}
+    _BoneUp: {x: -0.0042147874, y: -0.011727527, z: -0.99992234}
+    _BoneRight: {x: 0.33801097, y: 0.9404216, z: -0.0124544315}
+    _ToBoneForward: {x: -0.580935, y: -0.40313113, z: 0.4103392, w: 0.5758659}
+    _IsDirty: 0
+    _Length: 0.033493426
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 0
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.580935, y: 0.40313113, z: -0.4103392, w: 0.5758659}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  - _GUID: 
+    _Name: Object004
+    _Transform: {fileID: 4122444213985782}
+    _BindRotation: {x: 0.28993237, y: 0.63521516, z: 0.27944613, w: 0.65905297}
+    _BindPosition: {x: -29.892372, y: 12.078352, z: -1.1368684e-13}
+    _BindMatrix:
+      e00: -0.016027978
+      e01: -0.3206533
+      e02: 0.29391104
+      e03: 3.3938491
+      e10: 0.00000031144444
+      e11: -0.29411024
+      e12: -0.32087076
+      e13: 3.5523765
+      e20: -0.43497375
+      e21: 0.0118152695
+      e22: -0.010830292
+      e23: -13.145102
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    _BoneForward: {x: -0.9410598, y: 0.33824036, z: -0.00000035591847}
+    _BoneUp: {x: -0.0042147874, y: -0.011727527, z: -0.99992234}
+    _BoneRight: {x: 0.33801097, y: 0.9404216, z: -0.0124544315}
+    _ToBoneForward: {x: -0.580935, y: -0.40313113, z: 0.4103392, w: 0.5758659}
+    _IsDirty: 0
+    _Length: 0.033493426
+    _Weight: 1
+    _Swing: {x: 0, y: 0, z: 0, w: 1}
+    _Twist: {x: 0, y: 0, z: 0, w: 1}
+    _ColliderType: 0
+    _ColliderSize: {x: 0, y: 0, z: 0}
+    SerializationParentIndex: 0
+    SerializationChildIndexes: 
+    _ToBoneForwardInv: {x: 0.580935, y: 0.40313113, z: -0.4103392, w: 0.5758659}
+    _TargetSwing: {x: 0, y: 0, z: 0, w: 1}
+    _TargetTwist: {x: 0, y: 0, z: 0, w: 1}
+    SerializationJoint: 
+    _ShowDebug: 0
+  MotorDefinitions:
+  - '{__Type : com.ootii.Actors.BoneControllers.LookAtMotor, Assembly-CSharp, Version=2.0.0.668,
+    Culture=neutral, PublicKeyToken=null, _TargetTransform : "LookAt", _TargetPosition
+    : "(0, 0, 0)", _InvertRotations : False, _BoneInfo : [{__Type : com.ootii.Actors.BoneControllers.LookAtMotor+LookAtMotorBone,
+    Assembly-CSharp, Version=2.0.0.668, Culture=neutral, PublicKeyToken=null, RotationOffset
+    : "(135.21001, 92.099998, 2.2)", Rotation : "(0, 0, 0, 1)", RotationTarget : "(0,
+    0, 0, 1)", RotationLerp : 0.1, Weight : 1},{__Type : com.ootii.Actors.BoneControllers.LookAtMotor+LookAtMotorBone,
+    Assembly-CSharp, Version=2.0.0.668, Culture=neutral, PublicKeyToken=null, RotationOffset
+    : "(109.2, 65, -48.200001)", Rotation : "(0, 0, 0, 1)", RotationTarget : "(0,
+    0, 0, 1)", RotationLerp : 0.1, Weight : 0.5},{__Type : com.ootii.Actors.BoneControllers.LookAtMotor+LookAtMotorBone,
+    Assembly-CSharp, Version=2.0.0.668, Culture=neutral, PublicKeyToken=null, RotationOffset
+    : "(133.5, 58, 0)", Rotation : "(0, 0, 0, 1)", RotationTarget : "(0, 0, 0, 1)",
+    RotationLerp : 0.1, Weight : 0.25},{__Type : com.ootii.Actors.BoneControllers.LookAtMotor+LookAtMotorBone,
+    Assembly-CSharp, Version=2.0.0.668, Culture=neutral, PublicKeyToken=null, RotationOffset
+    : "(-76.699997, -155.5, 58)", Rotation : "(0, 0, 0, 1)", RotationTarget : "(0,
+    0, 0, 1)", RotationLerp : 0.1, Weight : 0.125},{__Type : com.ootii.Actors.BoneControllers.LookAtMotor+LookAtMotorBone,
+    Assembly-CSharp, Version=2.0.0.668, Culture=neutral, PublicKeyToken=null, RotationOffset
+    : "(0, -95.099998, 0)", Rotation : "(0, 0, 0, 1)", RotationTarget : "(0, 0, 0,
+    1)", RotationLerp : 0.1, Weight : 0.0625}], _ApplyLimits : True, SerializationBoneIndexes
+    : [46,45,4,3,2], _IsEnabled : True, _IsEditorEnabled : False, _IsDebugEnabled
+    : False, _IsFixedUpdateEnabled : True, _FixedUpdateFPS : 60, _Weight : 1, _BoneWeight
+    : 1, _GUID : "", _Name : "Solder"}'
+  EditorBoneFilters: IK_|FK_
+  EditorShowBones: 1
+  EditorShowBoneLimits: 1
+  EditorShowBoneColliders: 0
+  EditorAutoScaleHandles: 1
+  EditorShowSelectedBones: 0
+  EditorForceTrueColliders: 0
+  EditorForceTrueBoxColliders: 1
+  EditorLastTime: 316.05658
+  EditorDeltaTime: 0.01666
+--- !u!114 &114407324046145444
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1158331319400862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf0a73e52419af40a8d35b9c6a56be6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anim: {fileID: 0}
+  clip: []
+  audioX: []
+--- !u!114 &114788742758714962
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1158331319400862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf0a73e52419af40a8d35b9c6a56be6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anim: {fileID: 95029175126151484}
+  clip:
+  - {fileID: 0}
+  - {fileID: 8300000, guid: 45c800a8352ec1c4991a9d8f6a6c8c21, type: 3}
+  - {fileID: 8300000, guid: 3135ebcdafeb23149a4e0b530d93359d, type: 3}
+  - {fileID: 8300000, guid: 9d673c62596b8b342beded2145d00fab, type: 3}
+  - {fileID: 8300000, guid: c95b0a0888591d84193f1daa9440fe7f, type: 3}
+  - {fileID: 8300000, guid: d88ac1ebde7b9b0448cdddd4a92ec900, type: 3}
+  - {fileID: 8300000, guid: 82f902d9f019e644f87c3a5e9bc99fb3, type: 3}
+  - {fileID: 8300000, guid: ac69c0d8dd00b764c8b5f19ef203b39a, type: 3}
+  - {fileID: 8300000, guid: 682a1949cfebc3547913c2b69e369aef, type: 3}
+  - {fileID: 8300000, guid: fd6b7abb8d3b4a9419227d427c77d2df, type: 3}
+  - {fileID: 8300000, guid: e06e4ffa7c3ed264eae4b8a5c09ae6a1, type: 3}
+  - {fileID: 8300000, guid: 5ab55d510cbbff54aba2e52526f38a21, type: 3}
+  - {fileID: 8300000, guid: 06174155c83a95f4a9f05d1ac0482fc4, type: 3}
+  - {fileID: 8300000, guid: 891146fcc99eec04abd0d5c8f88ed777, type: 3}
+  - {fileID: 8300000, guid: 6c541c5b079d33e4abdc93ea45f1f207, type: 3}
+  - {fileID: 8300000, guid: fdb1697352a9e624d832734c6c9c011c, type: 3}
+  - {fileID: 8300000, guid: dadd3062296006246b9edb3f85d16645, type: 3}
+  - {fileID: 8300000, guid: 395121a243383f94995609e109c98295, type: 3}
+  - {fileID: 8300000, guid: 2e9a1ee7c3593274795aabe71caaf5c3, type: 3}
+  - {fileID: 8300000, guid: 94610dbb29acee64aa1fadd98de6952a, type: 3}
+  - {fileID: 8300000, guid: b2b749863a848774cb66c59f275b15db, type: 3}
+  - {fileID: 8300000, guid: bc3444c7f8db0514891bfa2fb78a875e, type: 3}
+  - {fileID: 8300000, guid: 1c14bc9681a52e042be776b9633847fd, type: 3}
+  - {fileID: 8300000, guid: b9db6162631fc7240802d14845ac8667, type: 3}
+  - {fileID: 8300000, guid: 20197ebe9705cec418af58c2571ad973, type: 3}
+  - {fileID: 8300000, guid: 9be370847db587847898166db4eab7c2, type: 3}
+  - {fileID: 8300000, guid: d3ef58269b724754cb1b239990db5e08, type: 3}
+  audioX: []
+--- !u!137 &137699844715277186
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1346735093830826}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: e0ef92d3c32591b4290759d368f5f388, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300002, guid: b4efb30ec2fc46e4b99a156356acaf49, type: 3}
+  m_Bones:
+  - {fileID: 4874821108915726}
+  - {fileID: 4181950620685434}
+  - {fileID: 4539822120874666}
+  - {fileID: 4267087895242776}
+  - {fileID: 4607127175997120}
+  - {fileID: 4228399934299352}
+  - {fileID: 4078046654292480}
+  - {fileID: 4772675457045180}
+  - {fileID: 4992243442246738}
+  - {fileID: 4004784647216802}
+  - {fileID: 4782691909617628}
+  - {fileID: 4166615189260392}
+  - {fileID: 4967501846031534}
+  - {fileID: 4161232032000364}
+  - {fileID: 4801268247171362}
+  - {fileID: 4491537289815854}
+  - {fileID: 4121290763748490}
+  - {fileID: 4627776378016882}
+  - {fileID: 4443843140797598}
+  - {fileID: 4251684766834160}
+  - {fileID: 4494100631363592}
+  - {fileID: 4378321392328660}
+  - {fileID: 4004424709105410}
+  - {fileID: 4011241668258466}
+  - {fileID: 4339252387131044}
+  - {fileID: 4543305526480094}
+  - {fileID: 4144443606369862}
+  - {fileID: 4151404882321764}
+  - {fileID: 4073957873833738}
+  - {fileID: 4902230592083152}
+  - {fileID: 4097455192722092}
+  - {fileID: 4624186231152012}
+  - {fileID: 4596668608902200}
+  - {fileID: 4788266984230566}
+  - {fileID: 4254899994583778}
+  - {fileID: 4572767981932768}
+  - {fileID: 4645294599161994}
+  - {fileID: 4472352437519070}
+  - {fileID: 4302600553557896}
+  - {fileID: 4710271356714624}
+  - {fileID: 4855912957535368}
+  - {fileID: 4918469275500900}
+  - {fileID: 4222334030289854}
+  - {fileID: 4804956106418196}
+  - {fileID: 4538627113477068}
+  - {fileID: 4900385936412888}
+  - {fileID: 4631734647394294}
+  - {fileID: 4588884480487220}
+  - {fileID: 4223465583014042}
+  - {fileID: 4933710480602252}
+  - {fileID: 4129361246611082}
+  - {fileID: 4823754656349254}
+  - {fileID: 4020737056054176}
+  - {fileID: 4314579885788374}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 4144443606369862}
+  m_AABB:
+    m_Center: {x: 5.3518486, y: 7.525799, z: -4.0329227}
+    m_Extent: {x: 109.00514, y: 33.280888, z: 47.430397}
+  m_DirtyAABB: 0
