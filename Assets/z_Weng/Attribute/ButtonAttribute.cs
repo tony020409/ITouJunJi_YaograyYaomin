@@ -46,7 +46,7 @@ public class ButtonAttribute : PropertyAttribute
 
 #if UNITY_EDITOR
 [CustomPropertyDrawer(typeof(ButtonAttribute))]
-public class InspectorButtonPropertyDrawer : PropertyDrawer
+public class InspectorButtonPropertyDrawer1 : PropertyDrawer
 {
     private MethodInfo _eventMethodInfo = null;
     public override void OnGUI(Rect position, SerializedProperty prop, GUIContent label)
