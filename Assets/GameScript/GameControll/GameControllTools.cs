@@ -50,8 +50,9 @@ public class GameControllTools
             tEM_GameControllAction == EM_GameControllAction.V3_RoleAnimator ||         // (3002) 设置角色動畫
             tEM_GameControllAction == EM_GameControllAction.V3_SectorClear ||          // (3003) 清除某物件附近的所有怪物
             tEM_GameControllAction == EM_GameControllAction.V3_RoleTransfor2Obj ||     // (4000) 将指定KeyId的角色传送到场景里的GameObject的位置（参数1为角色分配的指定KeyId, 参数2为场景里的GameObject的名字）
-            tEM_GameControllAction == EM_GameControllAction.V3_FadeScreen ||           // (4001) 畫面單純淡入淡出
-            tEM_GameControllAction == EM_GameControllAction.MoveY                      // (4002) 移動指定角色Y軸
+            tEM_GameControllAction == EM_GameControllAction.V3_FadeScreen ||        // (4001) 畫面單純淡入淡出
+            tEM_GameControllAction == EM_GameControllAction.MoveY ||                // (4002) 移動指定角色Y軸
+            tEM_GameControllAction == EM_GameControllAction.Boat                    // (4003) 移動指定漂浮
             )
         {
             return true;
@@ -167,9 +168,17 @@ public class GameControllTools
         {
             return new GameControllV3_RoleTransform2Obj();
         }
+        else if (tEM_GameControllAction == EM_GameControllAction.V3_FadeScreen)
+        {
+            return new GameControllV3_FadeScreen();
+        }
         else if (tEM_GameControllAction == EM_GameControllAction.MoveY)
         {
             return new GameControllMoveY();
+        }
+        else if (tEM_GameControllAction == EM_GameControllAction.Boat)
+        {
+            return new GameControllV3_Boat();
         }
         else
         {

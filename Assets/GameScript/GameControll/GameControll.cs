@@ -68,9 +68,9 @@ public class GameControll
         RegState(new GameControllV3_RoleAnimator());         //3002. 设置角色動畫
         RegState(new GameControlV3_SectorClear());           //3003. 清除某物件指定範圍內，指定隊伍的所有怪物 (參數4可設定忽略特定類型的怪)  (未測試)
         RegState(new GameControllV3_RoleTransform2Obj());    //4000. 移動指定腳色到某物件的位置
-        RegState(new GameControllV3_FadeScreen());           //4001. 移動指定腳色到某物件的位置
+        RegState(new GameControllV3_FadeScreen());           //4001. 畫面淡入淡出
         RegState(new GameControllMoveY());                   //4002. 移動指定角色Y軸
-
+        RegState(new GameControllV3_Boat());                 //4003. 指定角色漂浮
         //--------------------------------------------------------------------------------------
 
         //特殊处理定时器动作

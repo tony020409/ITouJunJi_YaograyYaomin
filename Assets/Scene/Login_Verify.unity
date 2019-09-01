@@ -3586,8 +3586,8 @@ MonoBehaviour:
   GameText: {fileID: 2029097763}
   BackGround: {fileID: 393394024}
   Info_VerifyVersion: w190104
-  Info_GameName: AG
-  Info_BuildDay: 190226
+  Info_GameName: ITou
+  Info_BuildDay: 190830_0
   Info_BuildNumber: 
   Info_Description: 
   newBackGround: {fileID: 0}

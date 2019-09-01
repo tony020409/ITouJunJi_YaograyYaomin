@@ -335,6 +335,13 @@ public enum EM_GameControllAction
     MoveY = 4002,
 
 
+    /// <summary>
+    // 漂浮
+    /// </summary>
+    Boat = 4003,
+
+
+
     //--------------------------------------------------------------------------
     Loop = 200,
     Read,
