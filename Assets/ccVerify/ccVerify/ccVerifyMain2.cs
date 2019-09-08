@@ -306,7 +306,9 @@ public class ccVerifyMain2 : UIFramwork
     /// glo_Main 讀取完畢的提示 (給 glo_Main.cs 的 Callback_LoadResSuc 調用 )
     /// </summary>
     public void f_Show_GloMainStatic() {
-        _GloMainStaticText.color = Color.green;
+	if(_GloMainStaticText != null){
+	   _GloMainStaticText.color = Color.green;
+	}
     }
 
     #endregion
@@ -324,7 +326,9 @@ public class ccVerifyMain2 : UIFramwork
 
 
     private void Log(string strText) {
-        _StaticText.text = strText;
+	if(_StaticText != null){
+	   _StaticText.text = strText;
+	}
         MessageBox.DEBUG(strText);
     }
 
