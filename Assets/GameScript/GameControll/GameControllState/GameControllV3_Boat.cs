@@ -28,6 +28,12 @@ public class GameControllV3_Boat : GameControllBaseState {
 
         //添加漂浮程式
         if (tmpObj != null) {
+
+            if (tmpObj.GetComponent<MySelfPlayerControll2>() != null) {
+                tmpObj = BattleMain.GetInstance().m_oMySelfPlayerTransform;
+            }
+
+
             m_Boat = tmpObj.AddComponent<Boat>();
             m_Boat.moveDis = ccMath.atof(_CurGameControllDT.szData2);
             m_Boat.LeftRight = ccMath.atof(_CurGameControllDT.szData3);
