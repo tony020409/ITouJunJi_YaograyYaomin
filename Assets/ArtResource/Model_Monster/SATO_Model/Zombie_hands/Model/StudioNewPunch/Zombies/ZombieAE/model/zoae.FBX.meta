@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 2f96f54beb0d4894c86ac765c13b5103
+timeCreated: 1503547938
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone004
+    100010: Bone005
+    100012: Bone006
+    100014: Bone007
+    100016: Bone008
+    100018: Bone009
+    100020: Bone010
+    100022: Bone011
+    100024: Bone012
+    100026: Bone013
+    100028: Bone014
+    100030: Bone015
+    100032: Bone016
+    100034: Bone017
+    100036: Bone018
+    100038: Chest_M
+    100040: Cup_L
+    100042: Cup_R
+    100044: Default
+    100046: Dummy001
+    100048: Elbow_L
+    100050: Elbow_R
+    100052: Eye_L
+    100054: Eye_R
+    100056: EyeEnd_L
+    100058: EyeEnd_R
+    100060: ForeArmL
+    100062: ForeArmR
+    100064: hair
+    100066: hairBack
+    100068: HandL
+    100070: HandR
+    100072: Head
+    100074: Head1_M
+    100076: HeadEnd_M
+    100078: IndexFinger1_L
+    100080: IndexFinger1_R
+    100082: IndexFinger2_L
+    100084: IndexFinger2_R
+    100086: IndexFinger3_L
+    100088: IndexFinger3_R
+    100090: IndexFinger4_L
+    100092: IndexFinger4_R
+    100094: Jaw_M
+    100096: JawEnd_M
+    100098: MiddleFinger1_L
+    100100: MiddleFinger1_R
+    100102: MiddleFinger2_L
+    100104: MiddleFinger2_R
+    100106: MiddleFinger3_L
+    100108: MiddleFinger3_R
+    100110: MiddleFinger4_L
+    100112: MiddleFinger4_R
+    100114: Neck_M
+    100116: Object001
+    100118: Object003
+    100120: Object004
+    100122: PinkyFinger1_L
+    100124: PinkyFinger1_R
+    100126: PinkyFinger2_L
+    100128: PinkyFinger2_R
+    100130: PinkyFinger3_L
+    100132: PinkyFinger3_R
+    100134: PinkyFinger4_L
+    100136: PinkyFinger4_R
+    100138: RingFinger1_L
+    100140: RingFinger1_R
+    100142: RingFinger2_L
+    100144: RingFinger2_R
+    100146: RingFinger3_L
+    100148: RingFinger3_R
+    100150: RingFinger4_L
+    100152: RingFinger4_R
+    100154: Shoulder_L
+    100156: Shoulder_R
+    100158: ThumbFinger1_L
+    100160: ThumbFinger1_R
+    100162: ThumbFinger2_L
+    100164: ThumbFinger2_R
+    100166: ThumbFinger3_L
+    100168: ThumbFinger3_R
+    100170: ThumbFinger4_L
+    100172: ThumbFinger4_R
+    100174: Wrist_L
+    100176: Wrist_R
+    100178: //RootNode
+    400000: Body
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone004
+    400010: Bone005
+    400012: Bone006
+    400014: Bone007
+    400016: Bone008
+    400018: Bone009
+    400020: Bone010
+    400022: Bone011
+    400024: Bone012
+    400026: Bone013
+    400028: Bone014
+    400030: Bone015
+    400032: Bone016
+    400034: Bone017
+    400036: Bone018
+    400038: Chest_M
+    400040: Cup_L
+    400042: Cup_R
+    400044: Default
+    400046: Dummy001
+    400048: Elbow_L
+    400050: Elbow_R
+    400052: Eye_L
+    400054: Eye_R
+    400056: EyeEnd_L
+    400058: EyeEnd_R
+    400060: ForeArmL
+    400062: ForeArmR
+    400064: hair
+    400066: hairBack
+    400068: HandL
+    400070: HandR
+    400072: Head
+    400074: Head1_M
+    400076: HeadEnd_M
+    400078: IndexFinger1_L
+    400080: IndexFinger1_R
+    400082: IndexFinger2_L
+    400084: IndexFinger2_R
+    400086: IndexFinger3_L
+    400088: IndexFinger3_R
+    400090: IndexFinger4_L
+    400092: IndexFinger4_R
+    400094: Jaw_M
+    400096: JawEnd_M
+    400098: MiddleFinger1_L
+    400100: MiddleFinger1_R
+    400102: MiddleFinger2_L
+    400104: MiddleFinger2_R
+    400106: MiddleFinger3_L
+    400108: MiddleFinger3_R
+    400110: MiddleFinger4_L
+    400112: MiddleFinger4_R
+    400114: Neck_M
+    400116: Object001
+    400118: Object003
+    400120: Object004
+    400122: PinkyFinger1_L
+    400124: PinkyFinger1_R
+    400126: PinkyFinger2_L
+    400128: PinkyFinger2_R
+    400130: PinkyFinger3_L
+    400132: PinkyFinger3_R
+    400134: PinkyFinger4_L
+    400136: PinkyFinger4_R
+    400138: RingFinger1_L
+    400140: RingFinger1_R
+    400142: RingFinger2_L
+    400144: RingFinger2_R
+    400146: RingFinger3_L
+    400148: RingFinger3_R
+    400150: RingFinger4_L
+    400152: RingFinger4_R
+    400154: Shoulder_L
+    400156: Shoulder_R
+    400158: ThumbFinger1_L
+    400160: ThumbFinger1_R
+    400162: ThumbFinger2_L
+    400164: ThumbFinger2_R
+    400166: ThumbFinger3_L
+    400168: ThumbFinger3_R
+    400170: ThumbFinger4_L
+    400172: ThumbFinger4_R
+    400174: Wrist_L
+    400176: Wrist_R
+    400178: //RootNode
+    2300000: Object003
+    2300002: Object004
+    3300000: Object003
+    3300002: Object004
+    4300000: Head
+    4300002: ForeArmL
+    4300004: HandL
+    4300006: ForeArmR
+    4300008: HandR
+    4300010: Body
+    4300012: hairBack
+    4300014: hair
+    4300016: Object003
+    4300018: Object004
+    4300020: Default
+    4300022: Object001
+    7400000: action
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    13700002: Default
+    13700004: ForeArmL
+    13700006: ForeArmR
+    13700008: hair
+    13700010: hairBack
+    13700012: HandL
+    13700014: HandR
+    13700016: Head
+    13700018: Object001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: action
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Chest_M
+        weight: 1
+      - path: Chest_M/Neck_M
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone001
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone001/Bone002
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone001/Bone002/Bone018
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone001/Bone002/Bone018/Bone003
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone001/Bone002/Bone018/Bone003/Bone017
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone001/Bone002/Bone018/Bone003/Bone017/Bone004
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone001/Bone002/Bone018/Bone003/Bone017/Bone004/Bone005
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006/Bone007
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Chest_M/Neck_M/Dummy001/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Chest_M/Neck_M/Head1_M
+        weight: 1
+      - path: Chest_M/Neck_M/Head1_M/Eye_L
+        weight: 1
+      - path: Chest_M/Neck_M/Head1_M/Eye_L/EyeEnd_L
+        weight: 1
+      - path: Chest_M/Neck_M/Head1_M/Eye_R
+        weight: 1
+      - path: Chest_M/Neck_M/Head1_M/Eye_R/EyeEnd_R
+        weight: 1
+      - path: Chest_M/Neck_M/Head1_M/HeadEnd_M
+        weight: 1
+      - path: Chest_M/Neck_M/Head1_M/Jaw_M
+        weight: 1
+      - path: Chest_M/Neck_M/Head1_M/Jaw_M/JawEnd_M
+        weight: 1
+      - path: Default
+        weight: 1
+      - path: ForeArmL
+        weight: 1
+      - path: ForeArmR
+        weight: 1
+      - path: hair
+        weight: 1
+      - path: hairBack
+        weight: 1
+      - path: HandL
+        weight: 1
+      - path: HandR
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Object001
+        weight: 1
+      - path: Shoulder_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/Cup_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/Cup_L/PinkyFinger1_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L/PinkyFinger3_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L/PinkyFinger3_L/PinkyFinger4_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/Cup_L/RingFinger1_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L/RingFinger3_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger4_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/IndexFinger1_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/IndexFinger1_L/IndexFinger2_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger4_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/MiddleFinger1_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger4_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/ThumbFinger1_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L/ThumbFinger3_L
+        weight: 1
+      - path: Shoulder_L/Elbow_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L/ThumbFinger3_L/ThumbFinger4_L
+        weight: 1
+      - path: Shoulder_L/Object003
+        weight: 1
+      - path: Shoulder_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/Cup_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/Cup_R/PinkyFinger1_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R/PinkyFinger3_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R/PinkyFinger3_R/PinkyFinger4_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/Cup_R/RingFinger1_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R/RingFinger3_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger4_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/IndexFinger1_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/IndexFinger1_R/IndexFinger2_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger4_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/MiddleFinger1_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger4_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/ThumbFinger1_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R/ThumbFinger3_R
+        weight: 1
+      - path: Shoulder_R/Elbow_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R/ThumbFinger3_R/ThumbFinger4_R
+        weight: 1
+      - path: Shoulder_R/Object004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
