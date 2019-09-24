@@ -7,6 +7,8 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System;
 using DG.Tweening;
+using System.Text.RegularExpressions;
+
 
 public class BattleMain : UIFramwork, IPlayerMono
 {
