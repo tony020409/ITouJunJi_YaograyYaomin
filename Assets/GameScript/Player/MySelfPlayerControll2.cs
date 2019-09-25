@@ -269,9 +269,9 @@ public class MySelfPlayerControll2 : BaseRoleControllV2
 
         #region 手把按鍵控制 (一般的 VR手把) (使用插件 ViveInput)
         if (ViveInput.GetPress(HandRole.RightHand, ControllerButton.Trigger)) {
-            if (REM == RifleEM.continuous) {
-                OnRightTriggerPressed();
-            }
+            //if (REM == RifleEM.continuous) {
+            //    OnRightTriggerPressed();
+            //}
         }
 
         if (ViveInput.GetPressDown(HandRole.RightHand, ControllerButton.Trigger)) {
@@ -318,9 +318,9 @@ public class MySelfPlayerControll2 : BaseRoleControllV2
         #region 電腦鍵盤控制 (針對玩具模型槍的板機設置)
         //Z鍵盤=模型槍的開槍鍵 (對應手把板機)
         if (Input.GetKey(KeyCode.Z)) {
-            if (REM == RifleEM.continuous) {
-                OnRightTriggerPressed();
-            }
+            //if (REM == RifleEM.continuous) {
+            //    OnRightTriggerPressed();
+            //}
         }
 
         if (Input.GetKeyDown(KeyCode.Z)) {
@@ -333,17 +333,17 @@ public class MySelfPlayerControll2 : BaseRoleControllV2
 
         //滑鼠左鍵=模型槍二代的開槍鍵 (對應手把板機)
         if (Input.GetKey(KeyCode.Mouse0)) {
-            if (REM == RifleEM.continuous) {
-                OnRightTriggerPressed();
-            }
+            //if (REM == RifleEM.continuous) {
+            //    OnRightTriggerPressed();
+            //}
         }
 
         if (Input.GetKeyDown(KeyCode.Mouse0)){
-            OnRightTriggerPressed();
+            //OnRightTriggerPressed();
         }
 
         if (Input.GetKeyUp(KeyCode.Mouse0)) {
-            OnRightTriggerReleased();
+            //OnRightTriggerReleased();
         }
         #endregion
     }
