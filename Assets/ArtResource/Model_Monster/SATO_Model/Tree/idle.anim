@@ -106580,9 +106580,23 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+  - time: 2
+    functionName: PlayAudio
+    data: "\u6293\u4EBA\u653B\u64CA\u8072"
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 2.5333333
     functionName: light_open
     data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.5333333
+    functionName: PlayAudio
+    data: "\u6293\u4EBA\u653B\u64CA\u8072"
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0

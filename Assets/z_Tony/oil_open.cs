@@ -23,5 +23,8 @@ public class oil_open : MonoBehaviour {
             oillmesh[i].SetActive(true);
         }
     }
+
     
+
+
 }

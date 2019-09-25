@@ -50,7 +50,7 @@ public class AudioManager : MonoBehaviour {
     public void PlayAudioClip (string _WhoCall, Vector3 _ObjectPosition, string _AudioName, float _AudioVolume = 1)
     {
         AudioClip _AudioClip = null;
-        _AudioClip = Resources.Load<AudioClip>(_AudioName);
+        _AudioClip = Resources.Load<AudioClip>("audio/"+_AudioName);
 
         if (_AudioClip == null)
         {

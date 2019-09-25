@@ -24,9 +24,13 @@ public class All_anicontroller : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.Q))
         {
             ani.Play(ani1);
-            if(gameObject.name == "FuFace_9F")
+            if (gameObject.name == "FuFace_9F")
             {
                 aimik.enabled = false;
+            }
+            else if (gameObject.name == "23F-4" || gameObject.name == "23F-3")
+            {
+                ani.SetInteger("Control",0);
             }
         }
 
@@ -36,6 +40,10 @@ public class All_anicontroller : MonoBehaviour {
             if (gameObject.name == "FuFace_9F")
             {
                 aimik.enabled = true;
+            }
+            else if (gameObject.name == "23F-4" || gameObject.name =="23F-3")
+            {
+                ani.SetInteger("Control", 1);
             }
         }
         if (Input.GetKeyDown(KeyCode.E))
