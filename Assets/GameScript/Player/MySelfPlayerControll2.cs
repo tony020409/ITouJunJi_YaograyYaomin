@@ -275,11 +275,11 @@ public class MySelfPlayerControll2 : BaseRoleControllV2
         }
 
         if (ViveInput.GetPressDown(HandRole.RightHand, ControllerButton.Trigger)) {
-            OnRightTriggerPressed();
+            //OnRightTriggerPressed();
         }
 
         if (ViveInput.GetPressUp(HandRole.RightHand, ControllerButton.Trigger)){
-            OnRightTriggerReleased();
+            //OnRightTriggerReleased();
         }
 
 

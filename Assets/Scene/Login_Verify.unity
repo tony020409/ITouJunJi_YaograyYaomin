@@ -3586,8 +3586,8 @@ MonoBehaviour:
   GameText: {fileID: 2029097763}
   BackGround: {fileID: 393394024}
   Info_VerifyVersion: w190104
-  Info_GameName: ITou
-  Info_BuildDay: 190925_0
+  Info_GameName: YTyao
+  Info_BuildDay: 190927_0
   Info_BuildNumber: 
   Info_Description: 
   newBackGround: {fileID: 0}
