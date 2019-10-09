@@ -3569,7 +3569,7 @@ MonoBehaviour:
   Account: {fileID: 1850682076}
   Password: {fileID: 1868001003}
   _GloMainStaticText: {fileID: 1414087840}
-  useAutologin: 0
+  useAutologin: 1
   testa: 0
 --- !u!114 &1453798951
 MonoBehaviour:
@@ -3587,7 +3587,7 @@ MonoBehaviour:
   BackGround: {fileID: 393394024}
   Info_VerifyVersion: w190104
   Info_GameName: YTyao
-  Info_BuildDay: 190927_0
+  Info_BuildDay: 191009_0
   Info_BuildNumber: 
   Info_Description: 
   newBackGround: {fileID: 0}
