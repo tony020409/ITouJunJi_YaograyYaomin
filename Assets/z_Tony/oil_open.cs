@@ -8,8 +8,11 @@ public class oil_open : MonoBehaviour {
     int i = 0;
 	// Use this for initialization
 	void Start () {
-		
-	}
+        for (i = 0; i < oillmesh.Length; i++)
+        {
+            oillmesh[i].SetActive(false);
+        }
+    }
 	
 	// Update is called once per frame
 	void Update () {
